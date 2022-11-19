@@ -1,0 +1,1 @@
+START wt.exe --profile "Ubuntu 22.04.1 LTS"
