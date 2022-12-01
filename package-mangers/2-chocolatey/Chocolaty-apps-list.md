@@ -1,8 +1,8 @@
-## Chocolaty Apps List :- (3)
+## Chocolaty Apps List :- (4)
 
 ```
 Ghostwriter
 Syncthing
 Filezilla
-
+Espanso
 ```
