@@ -7,8 +7,8 @@ Windows Registry Editor Version 5.00
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Wub\\Wub_v1.7\\Wub_x64.exe"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\wt.exe]
-@="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.3465.0_x64__8wekyb3d8bbwe\\wt.exe"
-Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.3465.0_x64__8wekyb3d8bbwe"
+@="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe\\wt.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\wumgr.exe]
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Update-Installation-Manager-Offline\\WuMgr_v1.1b\\wumgr.exe"
@@ -17,8 +17,12 @@ Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.3465.0_x64_
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Win+R-Alias-Manager\\Win8Native\\WinRAliasManager.exe"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\winget.exe]
-@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.18.2691.0_x64__8wekyb3d8bbwe\\winget.exe"
-Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.18.2691.0_x64__8wekyb3d8bbwe"
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\winget.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\WindowsPackageManagerServer.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\Windscribe.exe]
 @="C:\\Program Files (x86)\\Windscribe\\Windscribe.exe"
@@ -180,8 +184,8 @@ Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\eso.exe]
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Services-Optimizer\\Eso_v1.2\\eso.exe"
 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\espansod.exe]
-@="C:\\Users\\plr\\AppData\\Local\\Programs\\Espanso\\espansod.exe"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\espanso.bat]
+@="C:\\Users\\plr\\Documents\\GIT-REPO\\win-t\\scripts\\bat\\espanso.bat"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\EdgeBlock_x64.exe]
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Microsoft Edge\\EdgeBlock_v1.7\\EdgeBlock_x64.exe"
@@ -189,8 +193,8 @@ Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\EcMenu_x64.exe]
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Easy-Context-Menu\\EcMenu_v1.6\\EcMenu_x64.exe"
 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\Bitwarden.exe]
-@="C:\\Users\\plr\\AppData\\Local\\Programs\\Bitwarden\\Bitwarden.exe"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\bleachbit.exe]
+@="C:\\Program Files (x86)\\BleachBit\\bleachbit.exe"
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\Photo.exe]
 @="C:\\Program Files\\Affinity Photo\\Photo.exe"
@@ -201,6 +205,6 @@ Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\alacritty.exe]
 @="C:\\Program Files\\Alacritty\\alacritty.exe"
 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\bleachbit.exe]
-@="C:\\Program Files (x86)\\BleachBit\\bleachbit.exe"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\Bitwarden.exe]
+@="C:\\Users\\plr\\AppData\\Local\\Programs\\Bitwarden\\Bitwarden.exe"
 
