@@ -1,8 +1,8 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wt.exe]
-@="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.2874.0_x64__8wekyb3d8bbwe\\wt.exe"
-Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.2874.0_x64__8wekyb3d8bbwe"
+@="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe\\wt.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE]
 @="C:\\Program Files\\Windows NT\\Accessories\\WORDPAD.EXE"
@@ -23,8 +23,12 @@ Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
 Path="C:\\Users\\plr\\Documents\\MY-TOOL\\Win+R-Alias-Manager\\Win8Native"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\winget.exe]
-@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.18.2691.0_x64__8wekyb3d8bbwe\\winget.exe"
-Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.18.2691.0_x64__8wekyb3d8bbwe"
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\winget.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WindowsPackageManagerServer.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe]
 @="C:\\Program Files\\Windows Mail\\wabmig.exe"
@@ -34,16 +38,16 @@ Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.18.2691.0_
 Path="C:\\Program Files\\Windows Mail"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\vlc.exe]
-@="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
-Path="C:\\Program Files (x86)\\VideoLAN\\VLC"
+@="C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+Path="C:\\Program Files\\VideoLAN\\VLC"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\unopkg.exe]
 @="C:\\Program Files\\LibreOffice\\program\\unopkg.exe"
 Path="C:\\Program Files\\LibreOffice\\program"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\ubuntu2204.exe]
-@="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.1.23.0_x64__79rhkp1fndgsc\\ubuntu2204.exe"
-Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.1.23.0_x64__79rhkp1fndgsc"
+@="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.2.37.0_x64__79rhkp1fndgsc\\ubuntu2204.exe"
+Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.2.37.0_x64__79rhkp1fndgsc"
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\TabTip.exe]
 @="C:\\Program Files\\Common Files\\microsoft shared\\ink\\TabTip.exe"
@@ -180,6 +184,10 @@ Path="C:\\Program Files\\Internet Explorer"
 @="C:\\Program Files\\Mozilla Firefox\\firefox.exe"
 Path="C:\\Program Files\\Mozilla Firefox"
 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\filezilla.exe]
+@="C:\\Program Files\\FileZilla FTP Client\\filezilla.exe"
+Path="C:\\Program Files\\FileZilla FTP Client"
+
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Fab_x64.exe]
 @="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Firewall\\Fab_v1.9\\Fab_x64.exe"
 Path="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Firewall\\Fab_v1.9"
@@ -192,14 +200,10 @@ Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
 @="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 Path="C:\\Program Files\\Google\\Chrome\\Application"
 
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\AIMP.exe]
-@="C:\\Program Files\\AIMP\\AIMP.exe"
-
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\7zFM.exe]
 @="C:\\Program Files\\7-Zip\\7zFM.exe"
 Path="C:\\Program Files\\7-Zip"
 
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\filezilla.exe]
-@="C:\\Program Files\\FileZilla FTP Client\\filezilla.exe"
-Path="C:\\Program Files\\FileZilla FTP Client"
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\AIMP.exe]
+@="C:\\Program Files\\AIMP\\AIMP.exe"
 
