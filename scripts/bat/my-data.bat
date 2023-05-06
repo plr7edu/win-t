@@ -1,1 +1,1 @@
-%SystemRoot%\explorer.exe "C:\Users\PLR\Documents\MY-DATA"
+%SystemRoot%\explorer.exe "C:\Users\plr\Documents\Syncthing-data\my-data"

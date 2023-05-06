@@ -1,0 +1,209 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wt.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe\\wt.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE]
+@="C:\\Program Files\\Windows NT\\Accessories\\WORDPAD.EXE"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE]
+@="C:\\Program Files\\Windows NT\\Accessories\\WORDPAD.EXE"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe]
+@="C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+Path="C:\\Program Files (x86)\\Windows Media Player"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WINWORD.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\WINWORD.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WinRAliasManager.exe]
+@="C:\\Users\\plr\\Documents\\MY-TOOL\\Win+R-Alias-Manager\\Win8Native\\WinRAliasManager.exe"
+Path="C:\\Users\\plr\\Documents\\MY-TOOL\\Win+R-Alias-Manager\\Win8Native"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\winget.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\winget.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\WindowsPackageManagerServer.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe"
+Path="C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.19.10173.0_x64__8wekyb3d8bbwe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe]
+@="C:\\Program Files\\Windows Mail\\wabmig.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wab.exe]
+@="C:\\Program Files\\Windows Mail\\wab.exe"
+Path="C:\\Program Files\\Windows Mail"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\vlc.exe]
+@="C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+Path="C:\\Program Files\\VideoLAN\\VLC"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\unopkg.exe]
+@="C:\\Program Files\\LibreOffice\\program\\unopkg.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\ubuntu2204.exe]
+@="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.2.37.0_x64__79rhkp1fndgsc\\ubuntu2204.exe"
+Path="C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu22.04LTS_2204.2.37.0_x64__79rhkp1fndgsc"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\TabTip.exe]
+@="C:\\Program Files\\Common Files\\microsoft shared\\ink\\TabTip.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\swriter.exe]
+@="C:\\Program Files\\LibreOffice\\program\\swriter.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\spek.exe]
+@="C:\\Program Files (x86)\\Spek\\spek.exe"
+Path="C:\\Program Files (x86)\\Spek"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\soffice.exe]
+@="C:\\Program Files\\LibreOffice\\program\\soffice.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\SnippingTool.exe]
+@="C:\\Windows\\system32\\SnippingTool.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\smath.exe]
+@="C:\\Program Files\\LibreOffice\\program\\smath.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\SKYPESERVER.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\SkypeSrv\\SKYPESERVER.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16\\SkypeSrv"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\simpress.exe]
+@="C:\\Program Files\\LibreOffice\\program\\simpress.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\SDXHelper.exe]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\SDXHelper.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\sdraw.exe]
+@="C:\\Program Files\\LibreOffice\\program\\sdraw.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\scalc.exe]
+@="C:\\Program Files\\LibreOffice\\program\\scalc.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\sbase.exe]
+@="C:\\Program Files\\LibreOffice\\program\\sbase.exe"
+Path="C:\\Program Files\\LibreOffice\\program"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\RevoUninPro.exe]
+@="C:\\Program Files\\Revo Uninstaller Pro\\RevoUninPro.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\r-driveimagecl.exe]
+@="C:\\Program Files (x86)\\R-Drive Image\\r-driveimagecl.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\PowerShell.exe]
+@="C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\PowerShell.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\POWERPNT.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\POWERPNT.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\PotPlayerMini64.exe ]
+@="C:\\Program Files\\DAUM\\PotPlayer\\PotPlayerMini64.exe "
+Path="C:\\Program Files\\DAUM\\PotPlayer"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Photoshop.exe]
+@="C:\\Program Files\\Adobe\\Adobe Photoshop CC 2019\\Photoshop.exe"
+Path="C:\\Program Files\\Adobe\\Adobe Photoshop CC 2019"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\mspaint.exe]
+@="C:\\Windows\\System32\\mspaint.exe"
+Path="C:\\Windows\\System32"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\OUTLOOK.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\OUTLOOK.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\ONENOTE.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\ONENOTE.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\MSPUB.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\MSPUB.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\MSOXMLED.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\VFS\\ProgramFilesCommonX64\\Microsoft Shared\\OFFICE16\\MSOXMLED.EXE"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\msoasb.exe]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\msoasb.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\msoadfsb.exe]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\msoadfsb.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\msedge.exe]
+@="C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+Path="C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\MSACCESS.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\MSACCESS.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe]
+@="C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+Path="C:\\Program Files (x86)\\Windows Media Player"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Mp3tag.exe]
+@="C:\\Program Files\\Mp3tag\\Mp3tag.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\mip.exe]
+@="C:\\Program Files\\Common Files\\Microsoft Shared\\Ink\\mip.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\MEGAsync.exe]
+@="C:\\Users\\plr\\AppData\\Local\\MEGAsync\\MEGAsync.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\licensemanagershellext.exe]
+@="C:\\Windows\\System32\\licensemanagershellext.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Illustrator.exe]
+@="C:\\Program Files\\Adobe\\Adobe Illustrator 2020\\Support Files\\Contents\\Windows\\Illustrator.exe"
+Path="C:\\Program Files\\Adobe\\Adobe Illustrator 2020\\Support Files\\Contents\\Windows"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\IEXPLORE.EXE]
+@="C:\\Program Files\\Internet Explorer\\IEXPLORE.EXE"
+Path="C:\\Program Files\\Internet Explorer"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\IEDIAGCMD.EXE]
+@="C:\\Program Files\\Internet Explorer\\IEDIAGCMD.EXE"
+Path="C:\\Program Files\\Internet Explorer"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\IEDIAGCMD.EXE]
+@="C:\\Program Files\\Internet Explorer\\IEDIAGCMD.EXE"
+Path="C:\\Program Files\\Internet Explorer"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\firefox.exe]
+@="C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+Path="C:\\Program Files\\Mozilla Firefox"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\filezilla.exe]
+@="C:\\Program Files\\FileZilla FTP Client\\filezilla.exe"
+Path="C:\\Program Files\\FileZilla FTP Client"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Fab_x64.exe]
+@="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Firewall\\Fab_v1.9\\Fab_x64.exe"
+Path="C:\\Users\\plr\\Documents\\MY-TOOL\\Windows-Firewall\\Fab_v1.9"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\EXCEL.EXE]
+@="C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE"
+Path="C:\\Program Files\\Microsoft Office\\Root\\Office16"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe]
+@="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+Path="C:\\Program Files\\Google\\Chrome\\Application"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\7zFM.exe]
+@="C:\\Program Files\\7-Zip\\7zFM.exe"
+Path="C:\\Program Files\\7-Zip"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\AIMP.exe]
+@="C:\\Program Files\\AIMP\\AIMP.exe"
+
