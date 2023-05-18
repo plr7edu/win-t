@@ -1,0 +1,1 @@
+START C:\Users\EDU\AppData\Local\Programs\Espanso\espansod.exe launcher

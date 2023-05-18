@@ -1,0 +1,5 @@
+1.WhatsApp
+2.Ubuntu 22.04.2 LTS
+3.iTunes
+4.Bitwarden
+5.Windows Terminal
