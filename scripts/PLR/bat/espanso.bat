@@ -1,1 +1,1 @@
-START C:\Users\plr\AppData\Local\Programs\Espanso\espansod.exe launcher
+START C:\Users\PLR\AppData\Local\Programs\Espanso\espansod.exe launcher
