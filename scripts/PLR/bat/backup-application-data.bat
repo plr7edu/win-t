@@ -1,31 +1,31 @@
 echo on
 
 Echo Create Need Folders...
-mkdir C:\Users\PLR\Desktop\Backup-Application-Data\
-mkdir C:\Users\PLR\Desktop\Backup-Application-Data\Firefox\ C:\Users\PLR\Desktop\Backup-Application-Data\Google-Chrome\ C:\Users\PLR\Desktop\Backup-Application-Data\Joplin\
-mkdir C:\Users\PLR\Desktop\Backup-Application-Data\Google-Chrome\Default-Profile\ C:\Users\PLR\Desktop\Backup-Application-Data\Google-Chrome\Gaming-Profile\
+mkdir %HOMEPATH%\Desktop\Backup-Application-Data\
+mkdir %HOMEPATH%\Desktop\Backup-Application-Data\Firefox\ %HOMEPATH%\Desktop\Backup-Application-Data\Google-Chrome\ %HOMEPATH%\Desktop\Backup-Application-Data\Joplin\
+mkdir %HOMEPATH%\Desktop\Backup-Application-Data\Google-Chrome\Default-Profile\ %HOMEPATH%\Backup-Application-Data\Google-Chrome\Gaming-Profile\
 
 ::Firefox
 Echo Firefox Profile Backup Zipping...
-"C:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\PLR\Desktop\Backup-Application-Data\Firefox\Firefox-Root-Backup.zip" "C:\Users\PLR\AppData\Roaming\Mozilla\Firefox\Profiles\*"
-"C:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\PLR\Desktop\Backup-Application-Data\Firefox\Firefox-Local-Backup.zip" "C:\Users\PLR\AppData\Local\Mozilla\Firefox\Profiles\*"
+"%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Firefox\Firefox-Root-Backup.zip" "%APPDATA%\Mozilla\Firefox\Profiles\*"
+"%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Firefox\Firefox-Local-Backup.zip" "%LOCALAPPDATA%\Mozilla\Firefox\Profiles\*"
 echo Done!
 
 ::Google Chrome
 Echo Google Chrome Default Profile Backup Zipping...
-"C:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\PLR\Desktop\Backup-Application-Data\Google-Chrome\Default-Profile\Google-Chrome-Default-Profile-Backup.zip" "C:\Users\PLR\AppData\Local\Google\Chrome\User Data\Default\*"
+"%HOMEPATH%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Google-Chrome\Default-Profile\Google-Chrome-Default-Profile-Backup.zip" "%LOCALAPPDATA%\Google\Chrome\User Data\Default\*"
 echo Done!
 
 Echo Google Chrome Gaming Profile Backup Zipping...
-"C:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\PLR\Desktop\Backup-Application-Data\Google-Chrome\Gaming-Profile\Google-Chrome-Gaming-Profile-Backup.zip" "C:\Users\PLR\AppData\Local\Google\Chrome\User Data\Profile 1\*"
+"%HOMEPATH%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Backup-Application-Data\Google-Chrome\Gaming-Profile\Google-Chrome-Gaming-Profile-Backup.zip" "%LOCALAPPDATA%\Google\Chrome\User Data\Profile 1\*"
 echo Done!
 
 ::Joplin
 Echo Joplin Data Backup Zipping...
-"C:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\PLR\Desktop\Backup-Application-Data\Joplin\Joplin-Data-Backup.zip" "C:\Users\PLR\.config\joplin-desktop\*"
+"%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Joplin\Joplin-Data-Backup.zip" "%HOMEPATH%\.config\joplin-desktop\*"
 echo Done!
 
-cd C:\Users\PLR\Desktop\Backup-Application-Data\
+cd %HOMEPATH%\Desktop\Backup-Application-Data\
 
 @echo off
 for /f "tokens=2 delims==" %%a in ('wmic OS Get localdatetime /value') do set "dt=%%a"
