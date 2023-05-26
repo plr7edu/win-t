@@ -116,7 +116,7 @@
 | 111    | Word                                                | winword   | [Application]          |             |
 | 112    | Excel                                               | excel     | [Application]          |             |
 | 113    | iTunes                                              | itunes    | [Application]          |             |
-|        |                                                     |           |                        |             |
+| 114    | Backup Scripts Location                             | backups   | [Directory]            |             |
 |        |                                                     |           |                        |             |
 
 

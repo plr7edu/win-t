@@ -1,5 +1,15 @@
 ::All Application Data Restore
 
+@echo off 
+
+IF EXIST "%PROGRAMFILES%\7-Zip\7zFM.exe" (
+    GOTO CONTINUE
+) ELSE (
+    echo Before proceeding, you must install 7z.
+    pause
+)
+
+:CONTINUE
 
 Echo Firefox Restoring...
 
@@ -23,20 +33,6 @@ rd /s /q .config
 cd %APPDATA%
 rd /s /q Joplin
 "%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Joplin\Joplin-Config-Backup.zip
-
-
-Echo Google Chrome Restoring...
-
-::Google Chrome
-::Default Profile
-cd %LOCALAPPDATA%\Google\Chrome\User Data\Default\
-del /Q * & rd /s /q . 2>nul
-"%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Google-Chrome\Google-Chrome-Default-Profile-Backup.zip" 
-
-::Gaming Profile
-cd %LOCALAPPDATA%\Google\Chrome\User Data\Profile 2\
-del /Q * & rd /s /q . 2>nul
-"%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Google-Chrome\Google-Chrome-Gaming-Profile-Backup.zip"
 
 
 pause
