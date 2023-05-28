@@ -117,7 +117,9 @@
 | 112    | Excel                                               | excel     | [Application]          |             |
 | 113    | iTunes                                              | itunes    | [Application]          |             |
 | 114    | Backup Scripts Location                             | backups   | [Directory]            |             |
-|        |                                                     |           |                        |             |
+| 115    | Librewolf (My All Mails)                            | mails     | [Application]          |             |
+| 116    | ReIcon                                              | rei       | [Application] [Tool]   |             |
+| 117    | Bulk Rename Utility                                 | bru       | [Application]          |             |
 
 
 
