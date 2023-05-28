@@ -2,7 +2,7 @@
 
 mkdir %HOMEPATH%\Desktop\Firefox-Backup\
 
-Echo Firefox Profile Backup Zipping...
+Echo Firefox Profiles Backup Zipping...
 
 cd %APPDATA%\Mozilla\Firefox\Profiles\*default-release*\
 "%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Firefox-Backup\Firefox-Root-Directory-Backup.zip" 

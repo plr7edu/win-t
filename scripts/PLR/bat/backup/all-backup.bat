@@ -4,9 +4,9 @@ echo on
 
 Echo Create Need Folders...
 mkdir %HOMEPATH%\Desktop\Backup-Application-Data\
-mkdir %HOMEPATH%\Desktop\Backup-Application-Data\Firefox\ %HOMEPATH%\Desktop\Backup-Application-Data\Joplin\
+mkdir %HOMEPATH%\Desktop\Backup-Application-Data\Firefox\ %HOMEPATH%\Desktop\Backup-Application-Data\Joplin\ %HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\
 
-Echo Firefox Profile Backup Zipping ... 
+Echo Firefox Profiles Backup Zipping ... 
 ::Firefox
 cd %APPDATA%\Mozilla\Firefox\Profiles\*default-release*\
 "%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Firefox\Firefox-Root-Directory-Backup.zip" 
@@ -18,6 +18,14 @@ Echo Joplin Backup Zipping ...
 ::Joplin
 "%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Joplin\Joplin-Data-Backup.zip" "%HOMEPATH%\.config\"
 "%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Joplin\Joplin-Config-Backup.zip" "%APPDATA%\joplin\"
+
+Echo Librewolf Profiles Backup Zipping...
+::Librewolf
+cd %APPDATA%\librewolf\Profiles\*default-default*\
+"%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\Librewolf-Root-Directory-Backup.zip" 
+
+cd %LOCALAPPDATA%\librewolf\Profiles\*default-default*\
+"%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\Librewolf-Local-Directory-Backup.zip" 
 
 copy "%HOMEPATH%\Documents\MY-GIT-REPO\win-t\scripts\PLR\bat\backup\restore\all-restore.bat" "%HOMEPATH%\Desktop\Backup-Application-Data\"
 

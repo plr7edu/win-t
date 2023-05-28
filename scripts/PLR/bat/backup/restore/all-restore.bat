@@ -34,5 +34,16 @@ cd %APPDATA%
 rd /s /q Joplin
 "%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Joplin\Joplin-Config-Backup.zip
 
+Echo Librewolf Profiles Restoring...
+
+::Librewolf
+cd %APPDATA%\librewolf\Profiles\*default-default*\
+del /Q * & rd /s /q . 2>nul
+"%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\Librewolf-Root-Directory-Backup.zip" 
+
+cd %LOCALAPPDATA%\librewolf\Profiles\*default-default*\
+del /Q * & rd /s /q . 2>nul
+"%PROGRAMFILES%\7-Zip\7z.exe" x "%HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\Librewolf-Local-Directory-Backup.zip"
+
 
 pause
