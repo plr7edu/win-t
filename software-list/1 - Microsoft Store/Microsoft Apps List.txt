@@ -3,3 +3,4 @@
 3.iTunes
 4.Bitwarden
 5.Windows Terminal
+6.QuickLook
