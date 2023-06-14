@@ -1,0 +1,1 @@
+start shell:AppsFolder\38343JanPhilippWeber.2fastTwoFactorAuthenticatorSu_nxr4mypqfqb9c!App

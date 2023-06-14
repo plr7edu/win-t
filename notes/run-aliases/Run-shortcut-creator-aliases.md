@@ -88,7 +88,7 @@
 | 85     | Spotify                                             | spotify   | [Application]          |             |
 | 86     | System Restore Explorer                             | sre       | [Application] [Tool]   |             |
 | 87     | Windows Shutdown                                    | ssn       | [Script]               | (bat)       |
-| 88     | SyncTrayzor                                         | st        | [Application]          |             |
+| 88     | Syncthing                                           | st        | [Application]          |             |
 | 89     | Send To Editor                                      | ste       | [Application] [Tool]   |             |
 | 90     | Mp3tag                                              | tag       | [Application]          |             |
 | 91     | TCPView                                             | tcpv      | [Application] [Tool]   |             |
@@ -120,6 +120,9 @@
 | 115    | Librewolf (My All Mails)                            | mails     | [Application]          |             |
 | 116    | ReIcon                                              | rei       | [Application] [Tool]   |             |
 | 117    | Bulk Rename Utility                                 | bru       | [Application]          |             |
+| 118    | 2fast - two factor authenticator                    | fast      | [UWP] [Script]         | (bat) (vbs) |
+| 119    | O&O Shutup 10                                       | osh10     | [Application] [Tool]   |             |
+| 120    | Ultimate Windows Tweaker 4.8                        | uwt       | [Application] [Tool]   |             |
 
 
 
