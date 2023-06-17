@@ -13,7 +13,7 @@
 | 10     | Administrator Windows Terminal Command Prompt       | awtc      | [Script]               | (vbs)       |
 | 11     | Administrator Windows Terminal Powershell Prompt    | awtp      | [Script]               | (vbs)       |
 | 12     | Bleachbit                                           | bb        | [Application]          |             |
-| 13     | Bitdefender                                         | bd        | [Application]          |             |
+| 13     | Kaspersky Internet Security                         | kis       | [Application]          |             |
 | 14     | Host PC Bios Menu                                   | bios      | [Script]               | (bat)       |
 | 15     | Bitwarden (UWP)                                     | bit       | [UWP] [Script]         | (vbs) (bat) |
 | 16     | Windows Choose Menu                                 | choose    | [Script]               | (bat)       |
@@ -123,6 +123,7 @@
 | 118    | 2fast - two factor authenticator                    | fast      | [UWP] [Script]         | (bat) (vbs) |
 | 119    | O&O Shutup 10                                       | osh10     | [Application] [Tool]   |             |
 | 120    | Ultimate Windows Tweaker 4.8                        | uwt       | [Application] [Tool]   |             |
+| 121    | 2fast - two factor authenticator (Pass) [Notepad]   | fastp     | [Script]               | (bat)       |
 
 
 
