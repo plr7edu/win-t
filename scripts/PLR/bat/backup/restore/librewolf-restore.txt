@@ -1,0 +1,7 @@
+Librewolf Root
+%APPDATA%\librewolf\Profiles\
+(default-default) 
+
+Librewolf Local (Cache)
+cd %LOCALAPPDATA%\librewolf\Profiles\
+(default-default) 

@@ -1,0 +1,7 @@
+Firefox Root 
+%APPDATA%\Mozilla\Firefox\Profiles\  
+(default-release)
+
+Fireofox Local (Cache)
+%LOCALAPPDATA%\Mozilla\Firefox\Profiles\
+(default-release)

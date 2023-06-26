@@ -1,0 +1,7 @@
+Joplin Data
+cd %HOMEPATH%
+(.config)
+
+Joplin Config
+%APPDATA%
+(Joplin)

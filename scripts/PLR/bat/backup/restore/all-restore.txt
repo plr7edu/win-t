@@ -1,0 +1,29 @@
+Firefox Root 
+%APPDATA%\Mozilla\Firefox\Profiles\  
+(default-release)
+
+Fireofox Local (Cache)
+%LOCALAPPDATA%\Mozilla\Firefox\Profiles\
+(default-release)
+
+-------------------------------------------------------------
+
+Joplin Data
+cd %HOMEPATH%
+(.config)
+
+Joplin Config
+%APPDATA%
+(Joplin)
+
+-------------------------------------------------------------
+
+Librewolf Root
+%APPDATA%\librewolf\Profiles\
+(default-default) 
+
+Librewolf Local (Cache)
+cd %LOCALAPPDATA%\librewolf\Profiles\
+(default-default) 
+
+

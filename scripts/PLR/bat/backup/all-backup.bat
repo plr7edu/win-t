@@ -27,7 +27,7 @@ cd %APPDATA%\librewolf\Profiles\*default-default*\
 cd %LOCALAPPDATA%\librewolf\Profiles\*default-default*\
 "%PROGRAMFILES%\7-Zip\7z.exe" a -tzip "%HOMEPATH%\Desktop\Backup-Application-Data\Librewolf\Librewolf-Local-Directory-Backup.zip" 
 
-copy "%HOMEPATH%\Documents\MY-GIT-REPO\win-t\scripts\PLR\bat\backup\restore\all-restore.bat" "%HOMEPATH%\Desktop\Backup-Application-Data\"
+copy "%HOMEPATH%\Documents\MY-GIT-REPO\win-t\scripts\PLR\bat\backup\restore\all-restore.txt" "%HOMEPATH%\Desktop\Backup-Application-Data\"
 
 cd %HOMEPATH%\Desktop\Backup-Application-Data\
 
