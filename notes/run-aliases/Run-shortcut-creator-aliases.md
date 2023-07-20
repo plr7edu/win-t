@@ -126,6 +126,7 @@
 | 121    | 2fast - two factor authenticator (Pass) [Notepad]   | fastp     | [Script]               | (bat)       |
 | 122    | Google Drive                                        | drive     | [Application]          |             |
 | 123    | LibreWolf WinUpdater                                | lw-update | [Application]          |             |
+| 124    | Adobe Photoshop                                     | ps        | [Application]          |             |
 
 
 
