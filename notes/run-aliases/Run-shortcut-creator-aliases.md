@@ -128,6 +128,7 @@
 | 123    | LibreWolf WinUpdater                                | lw-update | [Application]          |             |
 | 124    | Adobe Photoshop                                     | ps        | [Application]          |             |
 | 125    | AOMEI Backupper                                     | abackup   | [Application]          |             |
+| 126    | Character Map UWP                                   | cmu       | [UWP] [Script]         | (vbs) (bat) |
 
 
 
