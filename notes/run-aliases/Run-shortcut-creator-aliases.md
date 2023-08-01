@@ -129,6 +129,10 @@
 | 124    | Adobe Photoshop                                     | ps        | [Application]          |             |
 | 125    | AOMEI Backupper                                     | abackup   | [Application]          |             |
 | 126    | Character Map UWP                                   | cmu       | [UWP] [Script]         | (vbs) (bat) |
+| 127    | VirtualBox                                          | vb        | [Application]          |             |
+| 128    | GoodSync                                            | gs        | [Application]          |             |
+| 129    | GoodSync Explorer                                   | gse       | [Application]          |             |
+| 130    | Sinhala Keyboard Layout (Image)                     | skl       | [Script] [Image]       | (bat) (vbs) |
 
 
 
