@@ -133,6 +133,8 @@
 | 128    | GoodSync                                            | gs        | [Application]          |             |
 | 129    | GoodSync Explorer                                   | gse       | [Application]          |             |
 | 130    | Sinhala Keyboard Layout (Image)                     | skl       | [Script] [Image]       | (bat) (vbs) |
+| 131    | Open Broadcaster Software (OBS)                     | obs       | [Application]          |             |
+| 132    | XnConvert                                           | ic        | [Application]          |             |
 
 
 
