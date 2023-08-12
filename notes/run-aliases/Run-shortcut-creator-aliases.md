@@ -135,6 +135,7 @@
 | 130    | Sinhala Keyboard Layout (Image)                     | skl       | [Script] [Image]       | (bat) (vbs) |
 | 131    | Open Broadcaster Software (OBS)                     | obs       | [Application]          |             |
 | 132    | XnConvert                                           | ic        | [Application]          |             |
+| 133    | LDPlayer9                                           | ldp       | [Application]          |             |
 
 
 
