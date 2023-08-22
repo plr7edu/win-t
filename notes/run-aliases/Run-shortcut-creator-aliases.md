@@ -75,7 +75,7 @@
 | 72     | Windows Reboot                                      | reboot    | [Script]               | (bat)       |
 | 73     | Revo Uninstaller Pro                                | revo      | [Application]          |             |
 | 74     | Restart Explorer                                    | rex       | [Application] [Tool]   |             |
-| 75     | Revision Tool                                       | rt        | [Application]          |             |
+| 75     | AutoHotkey                                          | ahk       | [Application]          |             |
 | 76     | Rufus                                               | rufus     | [Application] [Tool]   |             |
 | 77     | Syncthing-Data                                      | sd        | [Directory]            |             |
 | 78     | Sinhala Font Converter                              | sfc       | [Application]          |             |
@@ -123,7 +123,7 @@
 | 118    | 2fast - two factor authenticator                    | fast      | [UWP] [Script]         | (bat) (vbs) |
 | 119    | O&O Shutup 10                                       | osh10     | [Application] [Tool]   |             |
 | 120    | Ultimate Windows Tweaker 4.8                        | uwt       | [Application] [Tool]   |             |
-| 121    | 2fast - two factor authenticator (Pass) [Notepad]   | fastp     | [Script]               | (bat)       |
+| 121    |                                                     |           |                        |             |
 | 122    | Google Drive                                        | drive     | [Application]          |             |
 | 123    | LibreWolf WinUpdater                                | lw-update | [Application]          |             |
 | 124    | Adobe Photoshop                                     | ps        | [Application]          |             |
@@ -136,6 +136,12 @@
 | 131    | Open Broadcaster Software (OBS)                     | obs       | [Application]          |             |
 | 132    | XnConvert                                           | ic        | [Application]          |             |
 | 133    | LDPlayer9                                           | ldp       | [Application]          |             |
+| 134    | XYplorer                                            | xy        | [Application]          |             |
+| 135    | Adobe Illustrator                                   | ill       | [Application]          |             |
+| 136    | WizTree                                             | wiz       | [Application]          |             |
+| 137    | The Ultimate Windows Utility                        | wu        | [Application]          |             |
+| 138    | Memu 9 (Android Emulator)                           | memu      | [Application]          |             |
+| 139    | Multi-MEmu                                          | mmemu     | [Application]          |             |
 
 
 
