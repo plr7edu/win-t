@@ -112,7 +112,7 @@
 | 109    | Windows Terminal Ubuntu Prompt                      | wtu       | [Application] [Script] | (vbs) (bat) |
 | 110    | Windows Update Blocker                              | wub       | [Application] [Tool]   |             |
 | 110    | KeePassXC                                           | xc        | [Application]          |             |
-| 110    | Run-shortcut-creator-aliases.md                     | aliases   | [Application] [Script] | (bat)       |
+| 110    | Run-shortcut-creator-aliases.md                     | ali       | [Application] [Script] | (bat)       |
 | 111    | Word                                                | winword   | [Application]          |             |
 | 112    | Excel                                               | excel     | [Application]          |             |
 | 113    | iTunes                                              | itunes    | [Application]          |             |
