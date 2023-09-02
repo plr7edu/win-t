@@ -142,6 +142,8 @@
 | 137    | The Ultimate Windows Utility                        | wu        | [Application]          |             |
 | 138    | Memu 9 (Android Emulator)                           | memu      | [Application]          |             |
 | 139    | Multi-MEmu                                          | mmemu     | [Application]          |             |
+| 140    | windows-desktop-switcher                            | wds       | [Application] [Script] | (vbs) (bat) |
+| 141    | Church Presentation Script                          | cp        | [Application] [Script] | (bat) (ahk) |
 
 
 
