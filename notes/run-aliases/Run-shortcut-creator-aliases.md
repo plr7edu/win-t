@@ -144,6 +144,7 @@
 | 139    | Multi-MEmu                                          | mmemu     | [Application]          |             |
 | 140    | windows-desktop-switcher                            | wds       | [Application] [Script] | (vbs) (bat) |
 | 141    | Church Presentation Script                          | cp        | [Application] [Script] | (bat) (ahk) |
+| 141    | Kill Church Presentation Script                     | kcp       | [Application] [Script] | (bat) (ahk) |
 
 
 
