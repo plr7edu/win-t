@@ -4,10 +4,16 @@
 
 | Label Name | Colour     | Shortcut  Key |
 | ---------- | ---------- | ------------- |
-| ගීතිකාව:     | Green      | N             |
-| පුන ගැයුම:   | Light Pink | C             |
-| අරම්භය:     | Grey       | S             |
-| අවසානය:    | Red        | E             |
+| ගීතිකාව :    | Green      | T             |
+| පුන ගැයුම :  | Light Pink | C             |
+| අරම්භය :    | Grey       | S             |
+| අවසානය :   | Red        | E             |
+
+
+
+කිතුණු ගී අංක - 
+
+
 
 
 
