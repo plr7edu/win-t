@@ -1,1 +1,0 @@
-START %systemdrive%\PLR-WINDOWS-HOST-TOOLS\"Windows Desktop Switcher (Auto Hot Key Script)"\desktop_switcher.ahk

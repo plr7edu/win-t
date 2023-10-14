@@ -1,4 +1,0 @@
-;!@Install@!UTF-8!
-InstallPath="C:\\Program Files\\Yamicsoft\\Windows 10 Manager"
-;!@InstallEnd@!
-

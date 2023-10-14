@@ -1,0 +1,11 @@
+1 - Go to this Location with regedit
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts
+
+2 - Delete All Three Nirmala UI Fonts
+
+3 - Install All fonts in "Fix Sinhala UI Font" Folder
+
+4 - Reboot
+
+

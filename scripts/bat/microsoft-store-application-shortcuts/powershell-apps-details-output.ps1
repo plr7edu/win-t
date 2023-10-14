@@ -1,1 +1,0 @@
-cd C:\Users\plr\Documents\GIT-REPO\win-t\scripts\bat\microsoft-store-application-shortcuts; get-appxpackage > Install-Microsoft-Apps-Details.txt
