@@ -90,7 +90,7 @@
 | 86     | Telegram                                         | tele    | [Application]          |             |
 | 87     | Typing Master 11                                 | tm      | [Application]          |             |
 | 88     | Tor Browser                                      | tor     | [Application]          |             |
-| 89     | Any Desk                                         | ad      | [Application]          |             |
+| 89     | Team Viwer                                       | tv      | [Application]          |             |
 | 90     | Typora                                           | typora  | [Application]          |             |
 | 91     | EasyUEFI                                         | uefi    | [Application]          |             |
 | 92     | USB Safely Remove                                | usr     | [Application]          |             |
@@ -134,8 +134,9 @@
 | 130    | Mass Hymn Order (Note)                           | ho      | [Application] [Script] | (bat) (txt) |
 | 131    | Sublime Text                                     | sub     | [Application]          |             |
 | 132    | Good Sync Patch                                  | gsp     | [Script] [Extact]      | [7z]        |
-|        |                                                  |         |                        |             |
-|        |                                                  |         |                        |             |
+| 133    | Sinhala Tamil IME                                | ime     | [Application]          |             |
+| 134    | Router Admin                                     | ra      | [Script]               | (ahk)       |
+| 135    | Windows Special Folders                          | wsf     | [Application] [Tool]   |             |
 |        |                                                  |         |                        |             |
 |        |                                                  |         |                        |             |
 |        |                                                  |         |                        |             |
