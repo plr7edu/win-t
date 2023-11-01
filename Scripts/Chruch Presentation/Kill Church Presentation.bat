@@ -32,7 +32,7 @@ taskkill /F /IM keymanager.exe /T > nul
 taskkill /F /IM AutoHotkeyU64.exe /T > nul
 
 :: Sinhala Tamil IME
-taskkill /F /IM "SinhalaTamil IME.exe" /T > nul
+:: taskkill /F /IM "SinhalaTamil IME.exe" /T > nul
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul

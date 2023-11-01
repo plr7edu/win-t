@@ -7,7 +7,8 @@ START %systemdrive%\PLR-WINDOWS-HOST-TOOLS\"Send Windows Key"\"SendWKey v1.1"\Se
 START %systemdrive%\PLR-WINDOWS-HOST-TOOLS\"Windows Desktop Switcher (Auto Hot Key Script)"\"Windows 10"\desktop_switcher.ahk
 
 :: Sinhala Tamil IME
-START C:\"Program Files (x86)"\"SinhalaTamil IME"\"SinhalaTamil IME.exe"
+::START C:\"Program Files (x86)"\"SinhalaTamil IME"\"SinhalaTamil IME.exe"
+START %HOMEPATH%\Documents\MY-GIT-REPO\win-t\Scripts\"Windows Startup"\"Start Script Invisible.bat"
 
 :: Start Key Manager 
 ::START /min C:\"Program Files (x86)"\"ATNSOFT Key Manager"\keymanager.exe

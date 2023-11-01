@@ -137,7 +137,7 @@
 | 133    | Sinhala Tamil IME                                | ime     | [Application]          |             |
 | 134    | Router Admin                                     | ra      | [Script]               | (ahk)       |
 | 135    | Windows Special Folders                          | wsf     | [Application] [Tool]   |             |
-|        |                                                  |         |                        |             |
+| 135    | Simple Http Server (Script)                      | shs     | [Application] [Script] | (bat)       |
 |        |                                                  |         |                        |             |
 |        |                                                  |         |                        |             |
 |        |                                                  |         |                        |             |
