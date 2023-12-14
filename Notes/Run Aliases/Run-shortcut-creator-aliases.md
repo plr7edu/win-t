@@ -142,7 +142,15 @@
 | 137    | 3 Layout Preview Mode (EasyWorship Workspaces Switcher) | easy3   | [Script] [Copy] [Replace] | (bat)       |
 | 138    | Edit Mode (EasyWorship Workspaces Switcher)             | easye   | [Script] [Copy] [Replace] | (bat)       |
 | 139    | AIDA64 Network Audit                                    | aida    | [Application]             |             |
-|        |                                                         |         |                           |             |
+| 140    | MKVCleaver                                              | mkvc    | [Application]             |             |
+| 141    | FontExpert 2023                                         | fe      | [Application]             |             |
+| 142    | Pencil                                                  | pen     | [Application]             |             |
+| 142    | Spek                                                    | spek    | [Application]             |             |
+| 143    | Subtitle Edit                                           | se      | [Application]             |             |
+| 144    | Everything                                              | e       | [Application]             |             |
+| 145    | Western Digital Dashboard                               | wd      | [Application]             |             |
+| 156    | Lexar SSD Dash                                          | lexar   | [Application]             |             |
+| 157    | Windows Default Apps                                    | da      | [Application] [Windows]   |             |
 |        |                                                         |         |                           |             |
 |        |                                                         |         |                           |             |
 

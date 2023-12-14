@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.65.0" platform="windows">
+	<Servers>
+		<Folder expanded="1">Wifi-Connections<Server>
+				<Host>192.168.43.1</Host>
+				<Port>2121</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>ghostboy</User>
+				<Pass encoding="crypt" pubkey="lav25iAmy0lER91U8lE2dj4tc7rkpf2EDCaOk0kPIHYKBOFhNC4EVWy2BD9t3xy8r8wIcg79cheNa2ZP+AsZrw">EPQJoYQGEXJhe6fHuwSTOqIib+n7N7HA4jkVJ1SGyxLQ9uOs0TMbOjuIcG6YgIil1dBhWr2UnMocA6qkZIR0W2vcDMAVjvZacfkI1Ohm3+EqGcvh/hiSnAggWWK+/QpVPJ/JWA</Pass>
+				<Logontype>1</Logontype>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>PLR_WIFI</Name>
+				<Colour>3</Colour>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+			<Server>
+				<Host>192.168.43.2</Host>
+				<Port>2121</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>ghostboy</User>
+				<Pass encoding="crypt" pubkey="lav25iAmy0lER91U8lE2dj4tc7rkpf2EDCaOk0kPIHYKBOFhNC4EVWy2BD9t3xy8r8wIcg79cheNa2ZP+AsZrw">zbN/SkYRINNZg+dQNzJDHHzo+ZQH4/tVEqpjI+DSBW6VwpHD3Lsz5BZ3vzNzdgeuoJ5hEUm/w6xQkSWg+RosIXdLG6K3rwpQuUKOD6gJUv+bwpHFaE9wWs8KkFL6dkuNwT2zvQ</Pass>
+				<Logontype>1</Logontype>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>Subent Mask</Name>
+				<Colour>2</Colour>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+			<Server>
+				<Host>192.168.1.194</Host>
+				<Port>2121</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>ghostboy</User>
+				<Pass encoding="crypt" pubkey="lav25iAmy0lER91U8lE2dj4tc7rkpf2EDCaOk0kPIHYKBOFhNC4EVWy2BD9t3xy8r8wIcg79cheNa2ZP+AsZrw">xlmkegD7Bu0amy6dvclqpduLwP+Jn9Xn4T1ho5GocCwFF++AKiSPBaf/QvrqHOYrm3nTt/i9NjrEV6XjmOqhdyijYc/9xhqlFTYlmVuXrZMdvjFxgesicqlkqzUm63XbtOWvyw</Pass>
+				<Logontype>1</Logontype>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>SUBNET_MASK_MAIN</Name>
+				<Colour>2</Colour>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+		</Folder>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">1000</Setting>
+		<Setting name="Speedlimit outbound">100</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" platform="win" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" platform="win" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Minimum TLS Version">2</Setting>
+		<Setting name="Directory listing item limit">10000000</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Trust system trust store">0</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">ac|am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diff|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsh|nsi|pas|patch|pem|php|phtml|pl|po|pot|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Cache directory" platform="win" />
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">0</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="File associations (v2)" platform="win" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="File doubleclick action">0</Setting>
+		<Setting name="Dir doubleclick action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Startup action">0</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Highest shown overlay id">0</Setting>
+		<Setting name="Master password encryptor">lav25iAmy0lER91U8lE2dj4tc7rkpf2EDCaOk0kPIHYKBOFhNC4EVWy2BD9t3xy8r8wIcg79cheNa2ZP+AsZrw==</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">170 80 120 120</Setting>
+		<Setting name="Remote filelist colwidths">150 75 80 100 80 85</Setting>
+		<Setting name="Splitter positions (v2)">97 -131 500000000 228 228 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Time Format">0</Setting>
+		<Setting name="Date Format">0</Setting>
+		<Setting name="Default editor" platform="win">0</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Window position and size">0 360 41 1184 840 </Setting>
+		<Setting name="Last automatic update check">2023-12-11 13:42:19</Setting>
+		<Setting name="Greeting version">3.65.0</Setting>
+		<Setting name="Last automatic update version">3.65.0</Setting>
+		<Setting name="Update Check New Version" platform="win">nightly 2023-12-11 https://filezilla-project.org/nightlies/2023-12-11/win64/FileZilla_3_setup.exe 12380704 sha512 fa8126536eb70ad1b81089b7906a227e4b3ae907fb9ff87ae76c20f4457fb850dad98e701d0c94491e356de495d02b19d3599486aecb2607fdfc0f9344599efe sig:JdqHwoORH6dG1JijQG5dC7/bvT3L11tuRFamWtZeHkvvMM+bvDHAlOTePBfBAXXseStcTlIZ2fxMkJR5uaLbCg
+release 3.66.1 https://dl3.cdn.filezilla-project.org/FileZilla_3.66.1_win64-setup.exe 12383864 sha512 36c1a15f525800a2b0c03325802b603088d0cd6c137408ed584b8091caaced41b140d16e2de92d0b0782c363ca487379ffa44b80c20e2a947cdf8f5f2c5981f3 sig:BhIg0CF9feCFdjIM6pOgEpplt5jRJnyXASuFYjRYTGLyQCa1aS7+GksFdeKp9Kk5wTfKRbADTvdVL8QjzTt7AA
+beta 3.66.3-rc1 https://dl3.cdn.filezilla-project.org/FileZilla_3.66.3-rc1_win64-setup.exe 12376152 sha512 40cca095bbbd741351ac8383b2f9518ef6537dfff11b863283e5311009bfa3376bb2d2ccae1aa6de6c407e3230c9f241e5f20753ca0b52a19d7b921ef35001bd sig:3+2aenQO8DJnfd3E7LPnXFn2+akn5lHY6p+ZJSW3QVgt8rLhfaeDeNQwjfFnWy63IIqtQHdYj16Mzy3jx+mzCA
+resource 0 PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVzb3VyY2UgdmVyc2lvbj0iMi4zLjAuMSIgeG1sbnM9Imh0dHA6Ly93d3cud3h3aW5kb3dzLm9yZy93eHhyYyI+PG9iamVjdCBjbGFzcz0id3hQYW5lbCIgbmFtZT0iSURfVVBEQVRFX0hFQURFUiI+PG9iamVjdCBjbGFzcz0id3hCb3hTaXplciI+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48ZmxhZz53eEdST1c8L2ZsYWc+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNCb3hTaXplciI+PGxhYmVsPkZpbGVaaWxsYSBQcm88L2xhYmVsPjxvcmllbnQ+d3hWRVJUSUNBTDwvb3JpZW50PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PGZsYWc+d3hBTElHTl9DRU5URVJfSE9SSVpPTlRBTHx3eEFMTDwvZmxhZz48Ym9yZGVyPjJkPC9ib3JkZXI+PG9iamVjdCBjbGFzcz0id3hGbGV4R3JpZFNpemVyIj48aGdhcD4xMGQ8L2hnYXA+PGNvbHM+MjwvY29scz48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4QUxJR05fQ0VOVEVSX1ZFUlRJQ0FMPC9mbGFnPjxvYmplY3QgY2xhc3M9Ind4RmxleEdyaWRTaXplciI+PGNvbHM+MTwvY29scz48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4U3RhdGljVGV4dCI+PGxhYmVsPk5lZWQgdG8gYWNjZXNzIEdvb2dsZSBEcml2ZSwgQW1hem9uIFMzLCBPbmVEcml2ZSwgTWljcm9zb2Z0IEF6dXJlLFxuRHJvcGJveCwgR29vZ2xlIENsb3VkLCBXZWJEQVYsIEJhY2tibGF6ZSBCMiBvciBCb3g/PC9sYWJlbD48L29iamVjdD48Ym9yZGVyPjFkPC9ib3JkZXI+PGZsYWc+d3hCT1RUT008L2ZsYWc+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eEJveFNpemVyIj48b3JpZW50Pnd4SE9SSVpPTlRBTDwvb3JpZW50PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hIeXBlcmxpbmtDdHJsIj48bGFiZWw+R2V0IEZpbGVaaWxsYSBQcm88L2xhYmVsPjx1cmw+aHR0cHM6Ly9vZmZlcnMuZmlsZXppbGxhLXByb2plY3Qub3JnL3JlZGlyZWN0LnBocD9jPWZ6cHJvX2VuJmFtcDtzPXU8L3VybD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4U3RhdGljVGV4dCI+PGxhYmVsPiwgZmlsZSB0cmFuc2ZlciBtYWRlIGVhc3khPC9sYWJlbD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4QUxJR05fQ0VOVEVSX1ZFUlRJQ0FMPC9mbGFnPjxvYmplY3QgY2xhc3M9Ind4Qm94U2l6ZXIiPjxvcmllbnQ+d3hWRVJUSUNBTDwvb3JpZW50PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNCaXRtYXAiPjxiaXRtYXA+YmxvYjY0OmlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFFQUFBQUJBQ0FNQUFBQ2R0NEhzQUFBQzhWQk1WRVVBQUFDL0FBQ2hBQUNQQUFDL0FBQ1VBQUNsQUFDUEFBQ1BBQUNQQUFDNUFBQzdBQUM1QUFDZUFBQ1BBQUNRQUFEQUFBQ1BBQUMvQUFDUEFBQ1NBQUNaQUFDWEFBREFBQUNXQUFDNUFnSy9BQURBQUFDL0FBQ3FBQUN0QUFDcUFBQ2RBQUNzQUFEQUFBQzRBQUNiQUFDakFBQ2FBQUMzQUFDL0FBQ1dBQUMvQUFDd0FBQ21BQUNXQUFEQUFBQzRBQUNkQUFDL0FBQy9BQUNpQUFDUEFBQzlBQUNjQUFDWUFBREFBQUMyQUFDUEFBQ2ZBQUMvQUFDeEFBQy9BQUNtQUFEQUFBQ1FBQUNSQUFDL0FBQ1JBQUMvQUFDK0FBQ1FBQUNUQUFDL0FBQ2hBQUNVQUFDK0FBQ1dBQUNQQUFDTkFBQ1NBQUNSQUFDeUFBQ2tBQUN5QUFDa0FBQzBBQUNQQUFDMEFBQ1BBQUM3QUFDNkFBQ1ZBQUNXQUFDUUFBQ09BQUNwQUFDcEFBQ3VBQUNzQUFDeUFBRC8vLytQQUFDL0FBQ1NBQUN2QUFDekFBQ3hBQUM5QUFDM0FBQzFBQUNaQUFDN0FBQ1VBQUNjQUFDaEFBQ2tBQUNYQUFDNUFBQ25BQUN0QUFDV0FBQ2JBQUNnQVFHcUFBQ21BQUNlQUFESlZWV2pBQUNmQUFEZ2lJajEzdDd6M2QycEFBQ3NBQUQrL2YzKy9Qejc5ZlgzNXVibXdNREdhR2lqQ2dydzBkSHR6TXpockt6YW9xTGFtcHJNZ1lISWNYSEdZMk9vTURDbERnNzkrUGozNmVuejQrUHcxTlRyeWNucnhNVG93OFBudkx6aXNyTHBzYkhkcEtUWG41L1VsNWZTaTR2S2RYVzFPRGlwRlJXdEVCQ3BEZzZtQndmeDM5L3oyZG5veDhmanZMemdxYW5ibkp6YWs1UFNrcExXalkzUWlJalFnWUhIZlgzS2ZIek1lM3ZWZG5iT2RuYk1ibTdCWm1iRFZWVzhWVlhBVWxLNFVGREdUazdQUjBleFJrYStSVVhGUUVDNlFFQ3lNVEdqSkNTbUlDQ3VIeC9BSFIyckZ4ZWdGeGVmRHcrMURBeVdDZ3FpQndlZkJnYWhCQVQ1N3U3cXpjM3N3Y0hsdDdma3RMVGpzN1BrcXFyY3FLamxvcUxpbTV2V201dmZqSXpXaElUSWZuN0FibTdXYkd6U1pXWEhYRnk0VzF2RVdWbkVXRmpFVjFlM1YxZlJWbGE1UmthelJFVE5QRHpHTmphd016UERMaTY3S0NpMUppYXlJaUswRmhha0ZoYWFGUlhBRXhPeUV4T2FpNVVnQUFBQVpYUlNUbE1BN3dMKzRnWU4rdlR4VXpzZCt1L2d5cit1b1UxR055d1UvUGoxN09ua0xDY2dGQklML2YzOCsvajI5ZkhyNnVycDV0dmEyTkRKeExhenJLbWdsNVdOaG9aOGUzZHNhbXBpWVY5ZFJ6TXFIaGZ3NmVubjV0VFQwdEhDdjdhemxaTjlmSEZ2UC9nL2IzVUFBQVJ6U1VSQlZGakRwWlpsVkJ0UkZJUm5VNUpTcEZDSzFkM2QzZDNkWFpMVUxWQ2pRdW9VYUlHMlVIZDNkM2QzZDNmMzlsY3Z5WHNyQ2R1emgzeC9adCs5TTVQTjV1dzVBWFJ1Z3BBRGdLOGdCSkg0Q1VKRGtzcUNVSStraGlEVUlLa25DSlZKR2dxQ0gwbVFJUGlTNUJBRU54M2xxNXJONW9wNjFDSXBhNEFIaVc5MmVPWTNtNHQ3SVNpajJWdzRDTm1LbTgwWlBKSGRsNVllTUpRbHFRMTlSWktxT3BDRkVJclpKSU9iVGRMYkpTOUpJbTU1N1pMZUxobHNVa3l3U1dHWVhjVDFBaTgvVitKK1hvQWhmZkx6K1hNQzBBbkpMOGdJb2xZL0Y2Z05sSEtjSFJ1bnppZW5obElZNU1nU296ckhCam5oWERESHFNNmZKQW84Mnc5VmNQNC8rUTFESGVuZ0NXUlBweGk5TjZyendER2ZMZ2VJSXYzbFBEYXE4N3kvQTBWQWVDaG50NHpxZk83dmlBZFFMbzl5RktHZW41M09xU0JQT1F4UThwVzdwNDUzWXNtQUpIQXNlTUVMemcvUUJqeGE5NUh6a045QUgwMjA5UUM4RkpOcHJHQ0p0Z0l2RU0zN1NseWV3Z3IyOXRWQ1N4QTk1Wk9UUnNiSnZwcndCQ29WNkMxakw4dFB2dHhiRXdVcVFUbTR4d3JtOWRZS2hpc1l6d29XalAwLzM4UUV1bWVXNVg4YU5YS1VCVEwzQUxKTWtqaXF0ZUF2QzJRRmtXbVV5Qk9OK1duTW54bEVsbEVTaXpRV2JPV0JMRURYVEJNbGJtZ3NPTWdEbWJwaG1JenZXci9CR2ltaktIakpIZU1uT0ROYnpFK252QWlxRkJ3dHNwVy9pcU9kZVR0Rnl0UHh4LzRUaWRPQ1ZZREFFSkg1ekJJVDRzUWJNYjlnTFIzUExUNFlzNTAwRUVRTGJsckg3M0tmVS82MW1JOWNHMExzT3hVU3N1aENTQ3NRMlhLRk0xWngwNmx3QjJaTjVxdmI2OEtKRTRmandzTzNyQTNQbFEyb1g4TEMyYzlmeFFTTEVpbC9aNTJGV0IxbjJUNS84MHE2S2xFZk10OVMvaXFxNW1PdVdpd1hEaWZFVFkrMnJGNXRYeUpNWWdPemJRbFRJT1UzWHc4TE8zMTM1L1RvcUFYbitCWVZ2SzJNQk82THNzcUpNbktXWHJkYW94ZEdXM2V1c3E1YUZHWmJlbGNBL01jd1BuRGo2VEV5cEh5Y2xZNVhZMk9qbHlhSTJ3QVFSWWZZMmNPTUVkZUdTTXdVODh2SDJDZFJjMmVLMjZJZ21ucXowMkxtWEpoa2ZvVTQrekx0Q0wvMERnWUNTbzlrVE9YV2tTSlNmc2RJaVYreDEvaGw2UUFNNUp6bDNrUGlhS1dVSDZoQ2JxbmdFRGVmNVpNOVluNmxMSExwUU9RbGVVR1pVTVlLWnA3REI3dkYvQXcrdXZoeHhzWXB4bm1oRW1XQXV1d3lrcmtYcy9NTW84U2N5UHZiSHNWRXNxZTBUTW8zQUZGb1JDS2hFY3k4bXc0RTVkVTRNSUpUQ0lRaG4rMDZucStQMjQ1bkpxc1h4SXNGK1hJQ1dUc09UcEpscXZtSVVNblZLU3NHcTNCUjljL1NRb1VQdmRSNHFwTGZlRnhoZzQ5YXdaVzVSdVBjbTVzMnpWOHZTNjlmSHE5MCtVQlhYYTNoeUxQZnJDciszYTV0c2N1VzczcDF4dEZURTRDdW1TblpwTllCMExzbnY4QmREeGpTbWx3Z3JRRXBUQzZSRWliWFNJR1U5aUozK3pHVkpFUnFoYVJLSVJmM2xIYUJ2ak5KK1p5NjZpUnBnblYxYWQydUNmeHA3ZE1ZZ2Frb0hvakdQdlFSQVdqU2hyb2JJRGdOV1d2cURPVkp1dWp0djBJd2dKSW1VeU1TMnZxVDBLT3RRMUxOWktwR1VvY2VGNGsvZlFaSkk1T3BKRWxUdWhzOS9nSEpuM3p1NG0vcEtRQUFBQUJKUlU1RXJrSmdnZz09PC9iaXRtYXA+PHNpemU+NjQsNjQ8L3NpemU+PHRvb2x0aXA+aHR0cHM6Ly9vZmZlcnMuZmlsZXppbGxhLXByb2plY3Qub3JnL3JlZGlyZWN0LnBocD9jPWZ6cHJvX2VuJmFtcDtzPXU8L3Rvb2x0aXA+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eEh5cGVybGlua0N0cmwiPjxoaWRkZW4+MTwvaGlkZGVuPjxsYWJlbD5XaGF0IGlzIHRoaXM/PC9sYWJlbD48dXJsPmh0dHBzOi8vZmlsZXppbGxhLXByb2plY3Qub3JnL3Nwb25zb3JlZF91cGRhdGVzLnBocDwvdXJsPjwvb2JqZWN0PjxmbGFnPnd4QUxJR05fUklHSFQ8L2ZsYWc+PC9vYmplY3Q+PG9iamVjdCBjbGFzcz0ic3BhY2VyIj48c2l6ZT4xMCwzPC9zaXplPjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9Ind4UGFuZWwiIG5hbWU9IklEX1dFTENPTUVfSEVBREVSIj48b2JqZWN0IGNsYXNzPSJ3eEJveFNpemVyIj48b3JpZW50Pnd4VkVSVElDQUw8L29yaWVudD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxmbGFnPnd4R1JPVzwvZmxhZz48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY0JveFNpemVyIj48bGFiZWw+RmlsZVppbGxhIFBybzwvbGFiZWw+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48ZmxhZz53eEFMSUdOX0NFTlRFUl9IT1JJWk9OVEFMfHd4QUxMPC9mbGFnPjxib3JkZXI+MmQ8L2JvcmRlcj48b2JqZWN0IGNsYXNzPSJ3eEZsZXhHcmlkU2l6ZXIiPjxoZ2FwPjEwZDwvaGdhcD48Y29scz4yPC9jb2xzPjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PGZsYWc+d3hBTElHTl9DRU5URVJfVkVSVElDQUw8L2ZsYWc+PG9iamVjdCBjbGFzcz0id3hGbGV4R3JpZFNpemVyIj48Y29scz4xPC9jb2xzPjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNUZXh0Ij48bGFiZWw+TmVlZCB0byBhY2Nlc3MgR29vZ2xlIERyaXZlLCBBbWF6b24gUzMsIE9uZURyaXZlLCBNaWNyb3NvZnQgQXp1cmUsXG5Ecm9wYm94LCBHb29nbGUgQ2xvdWQsIFdlYkRBViwgQmFja2JsYXplIEIyIG9yIEJveD88L2xhYmVsPjwvb2JqZWN0Pjxib3JkZXI+MWQ8L2JvcmRlcj48ZmxhZz53eEJPVFRPTTwvZmxhZz48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4Qm94U2l6ZXIiPjxvcmllbnQ+d3hIT1JJWk9OVEFMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eEh5cGVybGlua0N0cmwiPjxsYWJlbD5HZXQgRmlsZVppbGxhIFBybzwvbGFiZWw+PHVybD5odHRwczovL29mZmVycy5maWxlemlsbGEtcHJvamVjdC5vcmcvcmVkaXJlY3QucGhwP2M9Znpwcm9fZW4mYW1wO3M9dzwvdXJsPjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PG9iamVjdCBjbGFzcz0id3hTdGF0aWNUZXh0Ij48bGFiZWw+LCBmaWxlIHRyYW5zZmVyIG1hZGUgZWFzeSE8L2xhYmVsPjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0Pjwvb2JqZWN0PjxvYmplY3QgY2xhc3M9InNpemVyaXRlbSI+PGZsYWc+d3hBTElHTl9DRU5URVJfVkVSVElDQUw8L2ZsYWc+PG9iamVjdCBjbGFzcz0id3hCb3hTaXplciI+PG9yaWVudD53eFZFUlRJQ0FMPC9vcmllbnQ+PG9iamVjdCBjbGFzcz0ic2l6ZXJpdGVtIj48b2JqZWN0IGNsYXNzPSJ3eFN0YXRpY0JpdG1hcCI+PGJpdG1hcD5ibG9iNjQ6aVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUVBQUFBQkFDQU1BQUFDZHQ0SHNBQUFDOFZCTVZFVUFBQUMvQUFDaEFBQ1BBQUMvQUFDVUFBQ2xBQUNQQUFDUEFBQ1BBQUM1QUFDN0FBQzVBQUNlQUFDUEFBQ1FBQURBQUFDUEFBQy9BQUNQQUFDU0FBQ1pBQUNYQUFEQUFBQ1dBQUM1QWdLL0FBREFBQUMvQUFDcUFBQ3RBQUNxQUFDZEFBQ3NBQURBQUFDNEFBQ2JBQUNqQUFDYUFBQzNBQUMvQUFDV0FBQy9BQUN3QUFDbUFBQ1dBQURBQUFDNEFBQ2RBQUMvQUFDL0FBQ2lBQUNQQUFDOUFBQ2NBQUNZQUFEQUFBQzJBQUNQQUFDZkFBQy9BQUN4QUFDL0FBQ21BQURBQUFDUUFBQ1JBQUMvQUFDUkFBQy9BQUMrQUFDUUFBQ1RBQUMvQUFDaEFBQ1VBQUMrQUFDV0FBQ1BBQUNOQUFDU0FBQ1JBQUN5QUFDa0FBQ3lBQUNrQUFDMEFBQ1BBQUMwQUFDUEFBQzdBQUM2QUFDVkFBQ1dBQUNRQUFDT0FBQ3BBQUNwQUFDdUFBQ3NBQUN5QUFELy8vK1BBQUMvQUFDU0FBQ3ZBQUN6QUFDeEFBQzlBQUMzQUFDMUFBQ1pBQUM3QUFDVUFBQ2NBQUNoQUFDa0FBQ1hBQUM1QUFDbkFBQ3RBQUNXQUFDYkFBQ2dBUUdxQUFDbUFBQ2VBQURKVlZXakFBQ2ZBQURnaUlqMTN0N3ozZDJwQUFDc0FBRCsvZjMrL1B6NzlmWDM1dWJtd01ER2FHaWpDZ3J3MGRIdHpNemhyS3phb3FMYW1wck1nWUhJY1hIR1kyT29NRENsRGc3OStQajM2ZW56NCtQdzFOVHJ5Y25yeE1Ub3c4UG52THppc3JMcHNiSGRwS1RYbjUvVWw1ZlNpNHZLZFhXMU9EaXBGUld0RUJDcERnNm1Cd2Z4MzkvejJkbm94OGZqdkx6Z3FhbmJuSnphazVQU2twTFdqWTNRaUlqUWdZSEhmWDNLZkh6TWUzdlZkbmJPZG5iTWJtN0JabWJEVlZXOFZWWEFVbEs0VUZER1RrN1BSMGV4UmthK1JVWEZRRUM2UUVDeU1UR2pKQ1NtSUNDdUh4L0FIUjJyRnhlZ0Z4ZWZEdysxREF5V0NncWlCd2VmQmdhaEJBVDU3dTdxemMzc3djSGx0N2ZrdExUanM3UGtxcXJjcUtqbG9xTGltNXZXbTV2ZmpJeldoSVRJZm43QWJtN1diR3pTWldYSFhGeTRXMXZFV1ZuRVdGakVWMWUzVjFmUlZsYTVSa2F6UkVUTlBEekdOamF3TXpQRExpNjdLQ2kxSmlheUlpSzBGaGFrRmhhYUZSWEFFeE95RXhPYWk1VWdBQUFBWlhSU1RsTUE3d0wrNGdZTit2VHhVenNkK3UvZ3lyK3VvVTFHTnl3VS9QajE3T25rTENjZ0ZCSUwvZjM4Ky9qMjlmSHI2dXJwNXR2YTJOREp4TGF6ckttZ2w1V05ob1o4ZTNkc2FtcGlZVjlkUnpNcUhoZnc2ZW5uNXRUVDB0SEN2N2F6bFpOOWZIRnZQL2cvYjNVQUFBUnpTVVJCVkZqRHBaWmxWQnRSRklSblU1SlNwRkNLMWQzZDNkM2RYWkxVTFZDalF1b1VhSUcyVUhkM2QzZDNkM2YzOWxjdnlYc3JDZHV6aDN4L1p0KzlNNVBONXV3NUFYUnVncEFEZ0s4Z0JKSDRDVUpEa3NxQ1VJK2toaURVSUtrbkNKVkpHZ3FDSDBtUUlQaVM1QkFFTngzbHE1ck41b3A2MUNJcGE0QUhpVzkyZU9ZM200dDdJU2lqMlZ3NENObUttODBaUEpIZGw1WWVNSlFscVExOVJaS3FPcENGRUlyWkpJT2JUZExiSlM5SkltNTU3WkxlTGhsc1VreXdTV0dZWGNUMUFpOC9WK0orWG9BaGZmTHorWE1DMEFuSkw4Z0lvbFkvRjZnTmxIS2NIUnVuemllbmhsSVk1TWdTb3pySEJqbmhYRERIcU02ZkpBbzgydzlWY1A0LytRMURIZW5nQ1dSUHB4aTlONnJ6d0RHZkxnZUlJdjNsUERhcTg3eS9BMFZBZUNobnQ0enFmTzd2aUFkUUxvOXlGS0dlbjUzT3FTQlBPUXhROHBXN3A0NTNZc21BSkhBc2VNRUx6Zy9RQmp4YTk1SHprTjlBSDAyMDlRQzhGSk5wckdDSnRnSXZFTTM3U2x5ZXdncjI5dFZDU3hBOTVaT1RSc2JKdnByd0JDb1Y2QzFqTDh0UHZ0eGJFd1VxUVRtNHh3cm05ZFlLaGlzWXp3b1dqUDAvMzhRRXVtZVc1WDhhTlhLVUJUTDNBTEpNa2ppcXRlQXZDMlFGa1dtVXlCT04rV25NbnhsRWxsRVNpelFXYk9XQkxFRFhUQk1sYm1nc09NZ0RtYnBobUl6dldyL0JHaW1qS0hqSkhlTW5PRE5iekUrbnZBaXFGQnd0c3BXL2lxT2RlVHRGeXRQeHgvNFRpZE9DVllEQUVKSDV6QklUNHNRYk1iOWdMUjNQTFQ0WXM1MDBFRVFMYmxySDczS2ZVLzYxbUk5Y0cwTHNPeFVTc3VoQ1NDc1EyWEtGTTFaeDA2bHdCMlpONXF2YjY4S0pFNGZqd3NPM3JBM1BsUTJvWDhMQzJjOWZ4UVNMRWlsL1o1MkZXQjFuMlQ1LzgwcTZLbEVmTXQ5Uy9pcXE1bU91V2l3WERpZkVUWSsyckY1dFh5Sk1ZZ096YlFsVElPVTNYdzhMTzMxMzUvVG9xQVhuK0JZVnZLMk1CTzZMc3NxSk1uS1dYcmRhb3hkR1czZXVzcTVhRkdaYmVsY0EvTWN3UG5EajZURXlwSHljbFk1WFkyT2pseWFJMndBUVJZZlkyY09NRWRlR1NNd1U4OHZIMkNkUmMyZUsyNklnbW5xejAyTG1YSmhrZm9VNCt6THRDTC8wRGdZQ1NvOWtUT1hXa1NKU2ZzZElpVit4MS9obDZRQU01SnpsM2tQaWFLV1VINmhDYnFuZ0VEZWY1Wk05WW42bExITHBRT1FsZVVHWlVNWUtacDdEQjd2Ri9Bdyt1dmh4eHNZcHhubWhFbVdBdXV3eWtya1hzL01NbzhTY3lQdmJIc1ZFc3FlMFRNbzNBRkZvUkNLaEVjeThtdzRFNWRVNE1JSlRDSVFobiswNm5xK1AyNDVuSnFzWHhJc0YrWElDV1RzT1RwSmxxdm1JVU1uVktTc0dxM0JSOWMvU1FvVVB2ZFI0cXBMZmVGeGhnNDlhd1pXNVJ1UGNtNXMyelY4dlM2OWZIcTkwK1VCWFhhM2h5TFBmckNyKzNhNXRzY3VXNzNwMXh0RlRFNEN1bVNuWnBOWUIwTHNudjhCZER4alNtbHdnclFFcFRDNlJFaWJYU0lHVTlpSjMrekdWSkVScWhhUktJUmYzbEhhQnZqTkorWnk2NmlScGduVjFhZDJ1Q2Z4cDdkTVlnYWtvSG9qR1B2UVJBV2pTaHJvYklEZ05XV3ZxRE9WSnV1anR2MEl3Z0pJbVV5TVMydnFUMEtPdFExTE5aS3BHVW9jZUY0ay9mUVpKSTVPcEpFbFR1aHM5L2dISm4zenU0bS9wS1FBQUFBQkpSVTVFcmtKZ2dnPT08L2JpdG1hcD48c2l6ZT42NCw2NDwvc2l6ZT48dG9vbHRpcD5odHRwczovL29mZmVycy5maWxlemlsbGEtcHJvamVjdC5vcmcvcmVkaXJlY3QucGhwP2M9Znpwcm9fZW4mYW1wO3M9dzwvdG9vbHRpcD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzaXplcml0ZW0iPjxvYmplY3QgY2xhc3M9Ind4SHlwZXJsaW5rQ3RybCI+PGhpZGRlbj4xPC9oaWRkZW4+PGxhYmVsPldoYXQgaXMgdGhpcz88L2xhYmVsPjx1cmw+aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcvc3BvbnNvcmVkX3VwZGF0ZXMucGhwPC91cmw+PC9vYmplY3Q+PGZsYWc+d3hBTElHTl9SSUdIVDwvZmxhZz48L29iamVjdD48b2JqZWN0IGNsYXNzPSJzcGFjZXIiPjxzaXplPjEwLDM8L3NpemU+PC9vYmplY3Q+PC9vYmplY3Q+PC9vYmplY3Q+PC9yZXNvdXJjZT4=
+
+3.66.3-rc1 (2023-12-11)
+
+- Test release for macOS CPU architecture migration
+
+3.66.3-beta1 (2023-12-07)
+
++ macOS: Now also distributing aarch64 binaries
+- macOS: Fixes for language detection
+- Fixed a potential crash in the HTTP client
+
+3.66.1 (2023-11-03)
+
+- macOS: Fixed display of local filenames containing non-ASCII characters if LC_CTYPE wasn't set
+
+3.66.0 (2023-10-23)
+
+- Fixed a sorting issue in comparative search
+
+3.66.0-rc1 (2023-10-11)
+
+- Fixed crash removing items from the list of file extensions treated as text files
+- Fixed potental crash if shutting down HTTP client.
+- Fixed HTTP timeouts
+</Setting>
+		<Setting name="Site Manager position">0 507 276 890 440 </Setting>
+		<Setting name="Tab data" sensitive="1">
+			<Tabs>
+				<Tab selected="1">
+					<Host />
+					<Port>21</Port>
+					<Protocol>-1</Protocol>
+					<Logontype>0</Logontype>
+					<BypassProxy>0</BypassProxy>
+					<Site />
+					<RemotePath />
+					<LocalPath>C:\Users\PLR\</LocalPath>
+				</Tab>
+			</Tabs>
+		</Setting>
+		<Setting name="Sitemanager last selected">0/Wifi-Connections/SUBNET_MASK_MAIN</Setting>
+	</Settings>
+</FileZilla3>
