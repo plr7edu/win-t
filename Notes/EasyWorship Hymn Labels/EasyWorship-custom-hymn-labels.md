@@ -2,26 +2,26 @@
 
 ## Sinhala Hymns
 
-| Label Name | Colour     | Shortcut  Key |
-| ---------- | ---------- | ------------- |
-| ගීතිකාව :    | Green      | T             |
-| පුන ගැයුම :  | Light Pink | C             |
-| අරම්භය :    | Grey       | S             |
-| අවසානය :   | Red        | E             |
 
 
-
-කිතුණු ගී අංක - 
-
-
+| Label Name  | Color      | Espanso Shortcut  Key |
+| ----------- | ---------- | --------------------- |
+| ගීතිකාව :     | Green      | :t                    |
+| පුන ගැයුම :   | Light Pink | :c                    |
+| අරම්භය :     | Grey       | :s                    |
+| අවසානය :    | Red        | :e                    |
+| කිතුණු ගී අංක - |            | :nu                   |
 
 
 
 ## English Hymns
 
-| Label Name | Colour     | Shortcut  Key |
-| ---------- | ---------- | ------------- |
-| HYMN       | Green      | H             |
-| CHORUS     | Light Pink |               |
-| ENDING     | Red        |               |
+
+
+| Label Name | Color      | Espanso Shortcut  Key |
+| ---------- | ---------- | --------------------- |
+| HYMN       | Green      | :T                    |
+| CHORUS     | Light Pink | :C                    |
+| START      | Grey       | :S                    |
+| ENDING     | Red        | :E                    |
 
