@@ -6,7 +6,7 @@
 
 | Label Name  | Color      | Espanso Shortcut  Key |
 | ----------- | ---------- | --------------------- |
-| ගීතිකාව :     | Green      | :t                    |
+| ගීතිකාව :     | Green      | :h                    |
 | පුන ගැයුම :   | Light Pink | :c                    |
 | අරම්භය :     | Grey       | :s                    |
 | අවසානය :    | Red        | :e                    |
@@ -20,7 +20,7 @@
 
 | Label Name | Color      | Espanso Shortcut  Key |
 | ---------- | ---------- | --------------------- |
-| HYMN       | Green      | :T                    |
+| HYMN       | Green      | :H                    |
 | CHORUS     | Light Pink | :C                    |
 | START      | Grey       | :S                    |
 | ENDING     | Red        | :E                    |
