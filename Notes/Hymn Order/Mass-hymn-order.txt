@@ -1,8 +1,10 @@
-1 - Entrance Hymn
-2 - Offertory Hymn
-3 - Communion Hymn - 1
-3 - Communion Hymn - 2
-4 - Final Hymn
+1 - Blessing of The Statue
+2 - Entrance Hymn
+3 - Offertory Hymn
+4 - Communion Hymn - 1
+4 - Communion Hymn - 2
+5 - Final Hymn
 
 
 සාමාන්‍ය සමයේ 3 වන ඉරැදින [දෙවන  වසර] - Saturday Afternoon Mass All Hymns
+2 වන නුවානය
