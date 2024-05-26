@@ -1,8 +1,6 @@
 1.WhatsApp
-2.Ubuntu 22.04.2 LTS
-3.iTunes
-4.Bitwarden
-5.Windows Terminal
-6.2fast 
-7.Character Map UWP
-
+2.Ubuntu 24.04 LTS
+3.Bitwarden
+4.Windows Terminal
+5.2fast 
+6.Character Map UWP

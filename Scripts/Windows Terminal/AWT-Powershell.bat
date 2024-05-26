@@ -1,1 +1,0 @@
-sudo START wt.exe --profile "Windows PowerShell"
