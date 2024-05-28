@@ -39,113 +39,115 @@
 | 35     | Windows - Document                                           | doc     | [Directory]                   |                                |
 | 36     | Windows - Download                                           | down    | [Directory]                   |                                |
 | 37     | Google Drive                                                 | drive   | [Application]  [Script]       | bat                            |
-| 38     | EasyWorship                                                  | easy    | [Application]                 |                                |
-| 39     | Icecream Ebook Reader                                        | ebook   | [Application]                 |                                |
-| 40     | EasyWorship Helper                                           | eh      | [Script]                      | bat (md)                       |
-| 41     | Espanso                                                      | ep      | [Script]                      | bat                            |
-| 42     | Explorer++                                                   | ex      | [Application]                 |                                |
-| 43     | Firewall App Blocker                                         | fab     | [Application]                 |                                |
-| 44     | 2fast – Two Factor Authenticator                             | fast    | [Application] [UWP]           |                                |
-| 45     | Fiddler Classic                                              | fc      | [Application]                 |                                |
-| 46     | FastStone Capture                                            | fs      | [Application]                 |                                |
-| 47     | Filezilla                                                    | ftp     | [Application]                 |                                |
-| 48     | Github Desktop                                               | gh      | [Application]                 |                                |
-| 49     | C:\Users\player-1\Documents\MY-GIT-REPO                      | git     | [Directory]                   |                                |
-| 50     | GoodSync                                                     | gs      | [Application]                 |                                |
-| 51     | GoodSync Explorer                                            | gse     | [Application]                 |                                |
-| 52     | Windows  - Hibernate                                         | hiber   | [Script]                      | bat                            |
-| 53     | Hymn Order (Church Presentation)                             | ho      | [Script]                      | bat (txt)                      |
-| 54     | BlueLife Hosts Editor                                        | host    | [Application]                 |                                |
-| 55     | Xnconvert                                                    | ic      | [Application]                 |                                |
-| 56     | Adobe InDesign                                               | id      | [Application]                 |                                |
-| 57     | Internet Dowload Manager                                     | idm     | [Application]                 |                                |
-| 58     | JPEGView                                                     | image   | [Application]                 |                                |
-| 59     | Poweriso                                                     | iso     | [Application]                 |                                |
-| 60     | Itunes                                                       | itunes  | [Application]                 |                                |
-| 61     | Kaspersky Internet Security                                  | kas     | [Application]                 |                                |
-| 62     | Kill Church Presentation                                     | kcp     | [Script]                      | bat                            |
-| 63     | KDJ Singlish                                                 | kdj     | [Application]                 |                                |
-| 64     | Kill EasyWorship                                             | keasy   | [Script]                      | bat                            |
-| 65     | Kleopatra                                                    | kleo    | [Application]                 |                                |
-| 66     | Windows  - Logout                                            | logout  | [Script]                      | bat                            |
-| 67     | LocalSend                                                    | ls      | [Application]                 |                                |
-| 68     | MegaSync                                                     | mega    | [Application]                 |                                |
-| 69     | MKVCleaver                                                   | mkvc    | [Application]                 |                                |
-| 70     | MKVToolNix                                                   | mkvt    | [Application]                 |                                |
-| 71     | Microsoft Store                                              | ms      | [Script]                      | vbs                            |
-| 72     | Windows - Music                                              | mu      | [Directory]                   |                                |
-| 73     | My Fonts Selection                                           | myfs    | [Script]                      | bat                            |
-| 74     | Nextcloud                                                    | nc      | [Application]                 |                                |
-| 75     | C:\Users\player-1\Documents\Nextcloud                        | ncd     | [Directory]                   |                                |
-| 76     | TCPView for Windows - Sysinternals                           | network | [Application]                 |                                |
-| 77     | NetLimiter 5                                                 | nl      | [Application]                 |                                |
-| 78     | AOMEI Partition Assistant                                    | part    | [Application]                 |                                |
-| 79     | C:\MY-TOOLS\Patch+Tools                                      | patch   | [Directory]                   |                                |
-| 80     | Path Manager                                                 | path    | [Application]                 |                                |
-| 81     | C:\Users\player-1\Documents\Privacy-Data                     | pd      | [Directory]                   |                                |
-| 82     | Evince                                                       | pdf     | [Application]                 |                                |
-| 83     | Adobe Acrobat Dc                                             | pdfe    | [Application]                 |                                |
-| 84     | Process Explorer - Sysinternals                              | pe      | [Application]                 |                                |
-| 85     | Windows - Pictures                                           | pi      | [Directory]                   |                                |
-| 86     | Picocrypt                                                    | pico    | [Application]                 |                                |
-| 87     | Potplayer                                                    | pot     | [Application]                 |                                |
-| 88     | Microsoft Powerpoint                                         | pp      | [Application]                 |                                |
-| 89     | Adobe Photoshop                                              | ps      | [Application]                 |                                |
-| 90     | Microsoft PowerToys                                          | pt      | [Application]                 |                                |
-| 91     | Proton VPN                                                   | pv      | [Application]                 |                                |
-| 92     | Qbittorrent                                                  | qbit    | [Application]                 |                                |
-| 93     | RunShortcutCreator                                           | rcs     | [Application]                 |                                |
-| 94     | Windows  - Reboot                                            | reboot  | [Script]                      | bat                            |
-| 95     | Revo Unisntaller Pro                                         | revo    | [Application]                 |                                |
-| 96     | Restart Explorer                                             | rex     | [Application]                 |                                |
-| 97     | Rufus                                                        | rufus   | [Application]                 |                                |
-| 98     | Everything                                                   | s       | [Application]                 |                                |
-| 99     | Sinhala Font Converter                                       | sfc     | [Application]                 |                                |
-| 100    | SpecialFoldersView                                           | sfv     | [Application]                 |                                |
-| 101    | 7z SFX Builder                                               | sfx     | [Application]                 |                                |
-| 102    | simple-http-server                                           | shs     | [Script]                      | bat                            |
-| 103    | Signal                                                       | sig     | [Application]                 |                                |
-| 104    | Sinhala English Dictionary                                   | sin     | [Application]                 |                                |
-| 105    | Windows  -  Sleep                                            | sleep   | [Script]                      | bat                            |
-| 106    | Sinhala Layout Image ANSI                                    | slia    | [Script]                      | vbs (image)                    |
-| 107    | Sinhala Layout Image UNICODE                                 | sliu    | [Script]                      | vbs (image)                    |
-| 108    | Sunday Mass EasyWorship Schedule (Copy)                      | sm      | [Script]                      | vbs (.ewsx)                    |
-| 109    | Microsoft Store - Sticky Notes                               | sn      | [Script]                      | vbs                            |
-| 110    | Spotify                                                      | sp      | [Application]                 |                                |
-| 111    | System Restore Explorer                                      | sre     | [Application]                 |                                |
-| 112    | Windows  - Shutdown                                          | ssn     | [Script]                      | bat                            |
-| 113    | Syncthing - Start                                            | st      | [Script]                      | vbs                            |
-| 114    | Sublime Text                                                 | subl    | [Application]                 |                                |
-| 115    | Subtitle Speech Synchronizer                                 | subsync | [Application]                 |                                |
-| 116    | Mp3tag                                                       | tag     | [Application]                 |                                |
-| 117    | Telegram                                                     | tele    | [Application]                 |                                |
-| 118    | Typing Master                                                | tm      | [Application]                 |                                |
-| 119    | C:\MY-TOOLS                                                  | tools   | [Directory]                   |                                |
-| 120    | TeamViewer                                                   | tv      | [Application]                 |                                |
-| 121    | Typora                                                       | ty      | [Application]                 |                                |
-| 122    | SkipUAC                                                      | uac     | [Application]                 |                                |
-| 123    | EasyUEFI                                                     | uefi    | [Application]                 |                                |
-| 124    | Upscayl                                                      | up      | [Application]                 |                                |
-| 125    | USB Safely Remove                                            | usr     | [Application]                 |                                |
-| 126    | Windows - Videos                                             | vi      | [Directory]                   |                                |
-| 127    | Vlc                                                          | vlc     | [Application]                 |                                |
-| 128    | Ventoy                                                       | vt      | [Application]                 |                                |
-| 129    | Whatsapp                                                     | wa      | [Script]                      | vbs                            |
-| 130    | Windows 11 Classic Context Menu                              | wcm     | [Application]                 |                                |
-| 131    | Windscribe                                                   | wind    | [Application]                 |                                |
-| 132    | WinMerge                                                     | winm    | [Application]                 |                                |
-| 133    | WizTree                                                      | wiz     | [Application]                 |                                |
-| 134    | Windows 11 Manager                                           | wm      | [Application]                 |                                |
-| 135    | Windows Sandbox                                              | ws      | [Application]                 |                                |
-| 136    | C:\Users\player-1\Documents\WSA-SHARE                        | wsa     | [Directory]                   |                                |
-| 137    | Winaero Tweaker                                              | wt      | [Application]                 |                                |
-| 138    | Windows Terminal - Command Prompt                            | wtc     | [Application]                 |                                |
-| 139    | Windows Terminal - Powershell                                | wtp     | [Application]                 |                                |
-| 140    | Windows Terminal - Ubuntu                                    | wtc     | [Application]                 |                                |
-| 141    | Windows Updates Blocker                                      | wub     | [Application]                 |                                |
-| 142    | Set Random Wallpaper                                         | ww      | [Script]                      | vbs                            |
-| 143    | KeepassXC                                                    | kx      | [Application]                 |                                |
-| 144    | XYplorer                                                     | xy      | [Application]                 |                                |
+| 38     | Default Taskbar                                              | dt      | [Script]                      | vbs                            |
+| 39     | EasyWorship                                                  | easy    | [Application]                 |                                |
+| 40     | Icecream Ebook Reader                                        | ebook   | [Application]                 |                                |
+| 41     | EasyWorship Helper                                           | eh      | [Script]                      | bat (md)                       |
+| 42     | Espanso                                                      | ep      | [Script]                      | bat                            |
+| 43     | Explorer++                                                   | ex      | [Application]                 |                                |
+| 44     | Firewall App Blocker                                         | fab     | [Application]                 |                                |
+| 45     | 2fast – Two Factor Authenticator                             | fast    | [Application] [UWP]           |                                |
+| 46     | Fiddler Classic                                              | fc      | [Application]                 |                                |
+| 47     | FastStone Capture                                            | fs      | [Application]                 |                                |
+| 48     | Filezilla                                                    | ftp     | [Application]                 |                                |
+| 49     | Github Desktop                                               | gh      | [Application]                 |                                |
+| 50     | C:\Users\player-1\Documents\MY-GIT-REPO                      | git     | [Directory]                   |                                |
+| 51     | GoodSync                                                     | gs      | [Application]                 |                                |
+| 52     | GoodSync Explorer                                            | gse     | [Application]                 |                                |
+| 53     | Windows  - Hibernate                                         | hiber   | [Script]                      | bat                            |
+| 54     | Hymn Order (Church Presentation)                             | ho      | [Script]                      | bat (txt)                      |
+| 55     | BlueLife Hosts Editor                                        | host    | [Application]                 |                                |
+| 56     | Hide Taskbar                                                 | ht      | [Script]                      | vbs                            |
+| 57     | Xnconvert                                                    | ic      | [Application]                 |                                |
+| 58     | Adobe InDesign                                               | id      | [Application]                 |                                |
+| 59     | Internet Dowload Manager                                     | idm     | [Application]                 |                                |
+| 60     | JPEGView                                                     | image   | [Application]                 |                                |
+| 61     | Poweriso                                                     | iso     | [Application]                 |                                |
+| 62     | Itunes                                                       | itunes  | [Application]                 |                                |
+| 63     | Kaspersky Internet Security                                  | kas     | [Application]                 |                                |
+| 64     | Kill Church Presentation                                     | kcp     | [Script]                      | bat                            |
+| 65     | KDJ Singlish                                                 | kdj     | [Application]                 |                                |
+| 66     | Kill EasyWorship                                             | keasy   | [Script]                      | bat                            |
+| 67     | Kleopatra                                                    | kleo    | [Application]                 |                                |
+| 68     | Windows  - Logout                                            | logout  | [Script]                      | bat                            |
+| 69     | LocalSend                                                    | ls      | [Application]                 |                                |
+| 70     | MegaSync                                                     | mega    | [Application]                 |                                |
+| 71     | MKVCleaver                                                   | mkvc    | [Application]                 |                                |
+| 72     | MKVToolNix                                                   | mkvt    | [Application]                 |                                |
+| 73     | Microsoft Store                                              | ms      | [Script]                      | vbs                            |
+| 74     | Windows - Music                                              | mu      | [Directory]                   |                                |
+| 75     | My Fonts Selection                                           | myfs    | [Script]                      | bat                            |
+| 76     | Nextcloud                                                    | nc      | [Application]                 |                                |
+| 77     | C:\Users\player-1\Documents\Nextcloud                        | ncd     | [Directory]                   |                                |
+| 78     | TCPView for Windows - Sysinternals                           | network | [Application]                 |                                |
+| 79     | NetLimiter 5                                                 | nl      | [Application]                 |                                |
+| 80     | AOMEI Partition Assistant                                    | part    | [Application]                 |                                |
+| 81     | C:\MY-TOOLS\Patch+Tools                                      | patch   | [Directory]                   |                                |
+| 82     | Path Manager                                                 | path    | [Application]                 |                                |
+| 83     | C:\Users\player-1\Documents\Privacy-Data                     | pd      | [Directory]                   |                                |
+| 84     | Evince                                                       | pdf     | [Application]                 |                                |
+| 85     | Adobe Acrobat Dc                                             | pdfe    | [Application]                 |                                |
+| 86     | Process Explorer - Sysinternals                              | pe      | [Application]                 |                                |
+| 87     | Windows - Pictures                                           | pi      | [Directory]                   |                                |
+| 88     | Picocrypt                                                    | pico    | [Application]                 |                                |
+| 89     | Potplayer                                                    | pot     | [Application]                 |                                |
+| 90     | Microsoft Powerpoint                                         | pp      | [Application]                 |                                |
+| 91     | Adobe Photoshop                                              | ps      | [Application]                 |                                |
+| 92     | Microsoft PowerToys                                          | pt      | [Application]                 |                                |
+| 93     | Proton VPN                                                   | pv      | [Application]                 |                                |
+| 94     | Qbittorrent                                                  | qbit    | [Application]                 |                                |
+| 95     | RunShortcutCreator                                           | rcs     | [Application]                 |                                |
+| 96     | Windows  - Reboot                                            | reboot  | [Script]                      | bat                            |
+| 97     | Revo Unisntaller Pro                                         | revo    | [Application]                 |                                |
+| 98     | Restart Explorer                                             | rex     | [Application]                 |                                |
+| 99     | Rufus                                                        | rufus   | [Application]                 |                                |
+| 100    | Everything                                                   | s       | [Application]                 |                                |
+| 101    | Sinhala Font Converter                                       | sfc     | [Application]                 |                                |
+| 102    | SpecialFoldersView                                           | sfv     | [Application]                 |                                |
+| 103    | 7z SFX Builder                                               | sfx     | [Application]                 |                                |
+| 104    | simple-http-server                                           | shs     | [Script]                      | bat                            |
+| 105    | Signal                                                       | sig     | [Application]                 |                                |
+| 106    | Sinhala English Dictionary                                   | sin     | [Application]                 |                                |
+| 107    | Windows  -  Sleep                                            | sleep   | [Script]                      | bat                            |
+| 108    | Sinhala Layout Image ANSI                                    | slia    | [Script]                      | vbs (image)                    |
+| 109    | Sinhala Layout Image UNICODE                                 | sliu    | [Script]                      | vbs (image)                    |
+| 110    | Sunday Mass EasyWorship Schedule (Copy)                      | sm      | [Script]                      | vbs (.ewsx)                    |
+| 111    | Microsoft Store - Sticky Notes                               | sn      | [Script]                      | vbs                            |
+| 112    | Spotify                                                      | sp      | [Application]                 |                                |
+| 113    | System Restore Explorer                                      | sre     | [Application]                 |                                |
+| 114    | Windows  - Shutdown                                          | ssn     | [Script]                      | bat                            |
+| 115    | Syncthing - Start                                            | st      | [Script]                      | vbs                            |
+| 116    | Sublime Text                                                 | subl    | [Application]                 |                                |
+| 117    | Subtitle Speech Synchronizer                                 | subsync | [Application]                 |                                |
+| 118    | Mp3tag                                                       | tag     | [Application]                 |                                |
+| 119    | Telegram                                                     | tele    | [Application]                 |                                |
+| 120    | Typing Master                                                | tm      | [Application]                 |                                |
+| 121    | C:\MY-TOOLS                                                  | tools   | [Directory]                   |                                |
+| 122    | TeamViewer                                                   | tv      | [Application]                 |                                |
+| 123    | Typora                                                       | ty      | [Application]                 |                                |
+| 124    | SkipUAC                                                      | uac     | [Application]                 |                                |
+| 125    | EasyUEFI                                                     | uefi    | [Application]                 |                                |
+| 126    | Upscayl                                                      | up      | [Application]                 |                                |
+| 127    | USB Safely Remove                                            | usr     | [Application]                 |                                |
+| 128    | Windows - Videos                                             | vi      | [Directory]                   |                                |
+| 129    | Vlc                                                          | vlc     | [Application]                 |                                |
+| 130    | Ventoy                                                       | vt      | [Application]                 |                                |
+| 131    | Whatsapp                                                     | wa      | [Script]                      | vbs                            |
+| 132    | Windows 11 Classic Context Menu                              | wcm     | [Application]                 |                                |
+| 133    | Windscribe                                                   | wind    | [Application]                 |                                |
+| 134    | WinMerge                                                     | winm    | [Application]                 |                                |
+| 135    | WizTree                                                      | wiz     | [Application]                 |                                |
+| 136    | Windows 11 Manager                                           | wm      | [Application]                 |                                |
+| 137    | Windows Sandbox                                              | ws      | [Application]                 |                                |
+| 138    | C:\Users\player-1\Documents\WSA-SHARE                        | wsa     | [Directory]                   |                                |
+| 139    | Winaero Tweaker                                              | wt      | [Application]                 |                                |
+| 140    | Windows Terminal - Command Prompt                            | wtc     | [Application]                 |                                |
+| 141    | Windows Terminal - Powershell                                | wtp     | [Application]                 |                                |
+| 142    | Windows Terminal - Ubuntu                                    | wtc     | [Application]                 |                                |
+| 143    | Windows Updates Blocker                                      | wub     | [Application]                 |                                |
+| 144    | Set Random Wallpaper                                         | ww      | [Script]                      | vbs                            |
+| 145    | KeepassXC                                                    | kx      | [Application]                 |                                |
+| 146    | XYplorer                                                     | xy      | [Application]                 |                                |
 |        |                                                              |         |                               |                                |
 |        |                                                              |         |                               |                                |
 |        |                                                              |         |                               |                                |
