@@ -1,6 +1,6 @@
 1.WhatsApp
 2.Ubuntu 24.04 LTS
 3.Bitwarden
-4.Windows Terminal
+4.Terminal (Windows)
 5.2fast 
 6.Character Map UWP

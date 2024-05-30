@@ -1,2 +1,2 @@
-start "%PROGRAMFILES%\Typora\Typora.exe" "%HOMEPATH%\Documents\MY-GIT-REPO\win-t\Notes\Run Aliases\Run-shortcut-creator-aliases.md"
-exit
+@echo off
+start excel "C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Database\Run_shortcut_creator_aliases.xlsx"
