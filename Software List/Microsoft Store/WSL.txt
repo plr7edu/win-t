@@ -1,0 +1,6 @@
+List Available Distributions = wsl --list --online
+
+
+Install Example = wsl --install -d Debian
+
+
