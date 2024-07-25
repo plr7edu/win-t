@@ -1,9 +1,3 @@
-Set WshShell = CreateObject("WScript.Shell") 
-WshShell.Run chr(34) & "%HOMEPATH%\Documents\Windows-Git-Repos\win-t\Scripts\Wsa\Mixplorer.bat" & Chr(34), 0
-Set WshShell = Nothing
-
-
-
 Set oShell = CreateObject("WScript.Shell")
 oShell.Run("""C:\windows\explorer.exe""")
 WScript.Sleep 1000
@@ -30,3 +24,10 @@ WScript.Sleep 300
 oShell.SendKeys "C:\Users\player-1\Documents\Wsa-Share"
 WScript.Sleep 300
 oShell.SendKeys "{ENTER}"
+
+
+Set WshShell = CreateObject("WScript.Shell") 
+WshShell.Run chr(34) & "%HOMEPATH%\Documents\Windows-Git-Repos\win-t\Scripts\Wsa\Mixplorer.bat" & Chr(34), 0
+Set WshShell = Nothing
+
+
