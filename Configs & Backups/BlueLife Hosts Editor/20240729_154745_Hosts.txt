@@ -1,4 +1,4 @@
-# Generated (31.05.2024 11:25:51) by BlueLife Hosts Editor v1.4 - Freeware
+# Generated (29.07.2024 15:47:49) by BlueLife Hosts Editor v1.4 - Freeware
 # www.sordum.org
 
 #102.54.94.97 rhino.acme.com # source server
@@ -189,3 +189,5 @@
 0.0.0.0 http://www.googletagmanager.com
 0.0.0.0 http://ajax.aspnetcdn.com
 0.0.0.0 http://ipp.corel.com
+0.0.0.0 services.druide.com
+0.0.0.0 www.services.druide.com
