@@ -13,5 +13,5 @@ START D:\CHRUCH\"Chruch Presentation Folder"\"3  - Hymns"\PDF\"Kethunu Gee Potha
 Start C:\Users\player-1\AppData\Local\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.mixplorer.silver
 
 :: Start EasyWorship
-START /min C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
+START /max C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
 

@@ -3,7 +3,7 @@
 set "desktop=%userprofile%\Desktop"
 
 :: Create an empty text file named "Temp.txt"
-echo. > "%desktop%\Temp-note.txt"
+echo .LOG > "%desktop%\Temp-note.txt"
 
 :: Open the file using Notepad
 start notepad "%desktop%\Temp-note.txt"
