@@ -3,8 +3,11 @@
 :: Kill FastStone Capture
 taskkill /F /IM FSCapture.exe /T > nul
 
-:: Kill WSA (Mixplorer & Termux)
-taskkill /F /IM WsaClient.exe /T > nul
+:: Close Mixplorer
+START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\MiXplorer_Window_Close.exe
+
+:: Close Termux
+START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\Termux_Window_Close .exe
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul
@@ -18,3 +21,5 @@ taskkill /F /IM evince.exe /T > nul
 
 :: Kill WindowManager 
 taskkill /F /IM WindowManager.exe /T > nul
+
+

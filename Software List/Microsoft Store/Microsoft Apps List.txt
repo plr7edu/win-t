@@ -3,7 +3,7 @@
 3.Bitwarden
 4.Terminal (Windows)
 5.Character Map UWP
-6.WSA Sideloader
+6.AOW Tools
 7.AV1 Video Extension
 
 
