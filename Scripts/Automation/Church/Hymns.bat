@@ -1,8 +1,5 @@
 @echo off
 
-:: Start WindowManager with Church Profile
-START /min C:\"Program Files (x86)"\WindowManager\WindowManager.exe PROFILE ( "Church" )
-
 ::Start FastStone Capture
 START C:\"Program Files (x86)"\"FastStone Capture"\FSCapture.exe
 
@@ -21,5 +18,6 @@ START C:\"Program Files"\GPSoftware\"Directory Opus"\dopusrt.exe /acmd Go TABGRO
 ::Start Kithunu Gee Potha 2 PDF
 START D:\CHRUCH\"Bolawalana Church Media Group Files"\Hymns\"Hymns - PDF"\"Kethunu Gee Potha 2.pdf"
 
-:: Close WindowManager Window
-START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\WindowManager_Window_Close.exe
+:: Start WindowManager with Church Profile
+WindowManager.exe -MINIMIZE -PROFILE "church"
+

@@ -14,3 +14,6 @@ START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Chu
 
 :: Close Google Lens
 START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\Google-Lens_Window_Close.exe
+
+::Kill Kanata
+taskkill /F /IM kanata.exe /T > nul

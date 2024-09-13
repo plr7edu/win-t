@@ -7,7 +7,10 @@ taskkill /F /IM FSCapture.exe /T > nul
 START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\MiXplorer_Window_Close.exe
 
 :: Close Termux
-START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\Termux_Window_Close .exe
+START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\Termux_Window_Close.exe
+
+:: Close Google Lens
+START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\compile_scripts\Google-Lens_Window_Close.exe
 
 :: Kill EasyWorship7 & EasyWorshop7 Helper
 taskkill /F /IM EasyWorship.exe /T > nul
