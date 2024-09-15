@@ -13,11 +13,11 @@ Start C:\Users\player-1\AppData\Local\Microsoft\WindowsApps\MicrosoftCorporation
 START /min C:\"Program Files (x86)"\Softouch\"EasyWorship 7"\EasyWorship.exe
 
 ::Start Directory Opus with "New Hymns" Tab Group
-START C:\"Program Files"\GPSoftware\"Directory Opus"\dopusrt.exe /acmd Go TABGROUPLOAD "New Hymns"
+START C:\"Program Files"\GPSoftware\"Directory Opus"\dopusrt.exe /acmd Go TABGROUPLOAD "New-Hymns"
 
 ::Start Kithunu Gee Potha 2 PDF
 START D:\CHRUCH\"Bolawalana Church Media Group Files"\Hymns\"Hymns - PDF"\"Kethunu Gee Potha 2.pdf"
 
 :: Start WindowManager with Church Profile
-WindowManager.exe -MINIMIZE -PROFILE "church"
+WindowManager.exe -MINIMIZE -PROFILE "New-Hymns"
 

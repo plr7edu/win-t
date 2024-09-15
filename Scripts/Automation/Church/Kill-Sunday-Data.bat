@@ -17,3 +17,6 @@ START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Chu
 
 ::Kill Kanata
 taskkill /F /IM kanata.exe /T > nul
+
+::Kill Kanata
+taskkill /F /IM cmd.exe /T > nul
