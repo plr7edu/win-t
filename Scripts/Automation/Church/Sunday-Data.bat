@@ -1,7 +1,7 @@
 @echo off
 
 ::Start Directory Opus with "New-Sunday" Tab Group
-START C:\"Program Files"\GPSoftware\"Directory Opus"\dopusrt.exe /acmd Go TABGROUPLOAD "New-Sunday"
+START C:\"Program Files"\GPSoftware\"Directory Opus"\dopusrt.exe /acmd Go TABGROUPLOAD "Sunday-Data"
 
 ::Start New Word File
 START C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\New-Word-Document.vbs
