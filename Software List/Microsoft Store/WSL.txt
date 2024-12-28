@@ -1,6 +1,6 @@
 List Available Distributions = wsl --list --online
 
 
-Install Example = wsl --install -d ubuntu-24.04
+Install Example = wsl --install -d ubuntu-22.04
 
 
