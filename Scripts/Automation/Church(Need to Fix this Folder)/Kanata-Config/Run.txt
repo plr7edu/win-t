@@ -1,0 +1,1 @@
+kanata.exe --cfg C:\Users\player-1\Documents\Windows-Git-Repos\win-t\Scripts\Automation\Church\kanata_config\sunday-data.kbd

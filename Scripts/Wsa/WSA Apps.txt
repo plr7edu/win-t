@@ -1,0 +1,7 @@
+# Icon
+%USERPROFILE%\AppData\Local\Packages\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\LocalState\com.digiapps.installedapps.ico
+
+# Lanuch App
+C:\Users\player-1\AppData\Local\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://sk.styk.martin.apkanalyzer
+
+

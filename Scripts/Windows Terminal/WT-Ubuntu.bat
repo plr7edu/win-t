@@ -1,1 +1,1 @@
-START wt.exe --profile "Ubuntu 22.04.5 LTS"
+START wt.exe --profile "Ubuntu-24.04"

@@ -1,3 +1,4 @@
-Set WshShell = CreateObject("WScript.Shell") 
-WshShell.Run chr(34) & "%HOMEPATH%\Documents\Windows-Git-Repos\win-t\Scripts\Windows Explorer\Explorer-Music.bat" & Chr(34), 0
+currentpath = CreateObject("Scripting.FileSystemObject").GetAbsolutePathName(".")
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run chr(34) & currentpath & "\Explorer-Music.bat" & Chr(34), 0
 Set WshShell = Nothing
